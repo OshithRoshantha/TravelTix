@@ -6,14 +6,15 @@
     display: flex;
     flex-direction: column;
     height: 100vh;
-    
+    justify-content: center;
+    align-items: center;
     background: linear-gradient(0deg, darkblue, black);
-    
 }
 .video-element{
     height: 100vh;
     object-fit: cover;
     opacity: 70%;
+    width: 100vw;
 }
 .header{
     height: 13vh;
@@ -36,6 +37,12 @@
     width: auto;
     background-color: gold;
     height: 2px;
+    display: none;
+}
+.homeb:hover .buttoneffect,
+.findrouteb:hover .buttoneffect,
+.contactb:hover .buttoneffect {
+        display: block;
 }
 .findrouteb{
     width: auto;
@@ -53,4 +60,79 @@
     font-size: 1.5rem;
     align-self: last baseline;
     padding-right: 6vw;
+}
+.homeb, .findrouteb, .contactb {
+        font-weight: normal; 
+    }
+.homeb:hover, .findrouteb:hover, .contactb:hover {
+    font-weight: bold; 
+}
+.welcomeArea{
+    height: 300px;
+    background-color: white;
+    opacity: 50%;
+    position: fixed;
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 60vw;
+    row-gap: 25px;
+    padding: 20px;
+    border-radius: 2.9%;
+    animation: blink 2s infinite alternate;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 0.3; 
+  }
+  100% {
+    opacity: 0.6; 
+  }
+}
+.welcomeText{
+    text-align: center;
+    font-size: 2.8vw;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    overflow: hidden; 
+    border-right: 0.1em solid black; 
+    white-space: nowrap; 
+    margin: 0 auto; 
+    animation: typing 4s steps(40, end), blink-caret 0.75s step-end infinite;
+}
+.welcomeText2{
+    text-align: center;
+    font-size: 1.6vw;
+    color: black;
+}
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: black; }
+}
+.nextb{
+    background-color: gold;
+    width: 5.9vw;
+    height: 5.9vw;
+    position: fixed;
+    z-index: 9999;
+    margin-top: 340px;
+    border-radius:50%;
+    animation: moveUpDown 0.5s infinite alternate;
+}
+@keyframes moveUpDown {
+  0% {
+    transform: translateY(0); /* Initial position */
+  }
+  50% {
+    transform: translateY(-10px); /* Move up */
+  }
+  100% {
+    transform: translateY(0); /* Return to initial position */
+  }
 }
