@@ -142,5 +142,17 @@
   }
 }
 .search{
-    width: 75px;
+    width: 5vw;
+}
+.awsLogo{
+    width: 400px;
+    height: 4px;
+    position: fixed;
+    margin-top: 550px;
+    margin-left:85vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 5px;
 }
