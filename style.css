@@ -42,7 +42,7 @@
 }
 .buttoneffect{
     width: auto;
-    background-color: gold;
+    background-color: #ffd700;
     height: 2px;
     display: none;
 }
@@ -191,7 +191,7 @@
     justify-content: center;
 }
 .footer{
-    background-color: black;
+    background: black;
     height: 4vh;
 
 }
