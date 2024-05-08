@@ -42,3 +42,6 @@ function scrollToTop() {
       behavior: 'smooth'
   });
 }
+function openPage() {
+  window.location.href = "findroute.html";
+}
