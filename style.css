@@ -167,6 +167,7 @@
     align-items: center;
     flex-direction: column;
     row-gap: 5px;
+    z-index: 999;
 }
 .aws{
     width: 7.5vw;
@@ -205,6 +206,16 @@
     height: 60vh;
     margin-top: 6vw;
     margin-left: -35vw;
+    position: absolute;
+    z-index: 999;
+    display: flex;
+}
+.textContact{
+    background-color: blue;
+    width: 20vw;
+    height: 60vh;
+    margin-top: 6vw;
+    margin-right: -50vw;
     position: absolute;
     z-index: 999;
     display: flex;
