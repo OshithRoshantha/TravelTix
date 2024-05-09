@@ -108,7 +108,8 @@
 .welcomeText{
     text-align: center;
     font-size: 2.8vw;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: "Public Sans", sans-serif;
+    font-weight: bold;
     color: black;
     overflow: hidden; 
     border-right: 0.1em solid black; 
@@ -119,7 +120,7 @@
     text-align: center;
     font-size: 1.6vw;
     color: black;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: "Ubuntu Sans", sans-serif;
     font-weight: 400;
 }
 @keyframes typing {
@@ -142,7 +143,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-
+    transition: all 0.3s ease;
+}
+.nextb:hover {
+    transform: scale(1.1); 
+    }
+.nextb:active {
+    background-color: white; 
 }
 @keyframes moveUpDown {
   0% {
@@ -329,6 +336,7 @@
     .welcomeArea{
         margin-top: -6vh;
         height: auto;
+        width: 72vw;
     }
     
     .welcomeText{
@@ -419,8 +427,10 @@
     .nextb{
         width: 17vw;
         height: 17vw;
-        margin-top: 69vh;
+        margin-top: 62vh;
+
     }
+
     .search{
         width: 13vw;
     }
