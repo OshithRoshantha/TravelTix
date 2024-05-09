@@ -82,12 +82,14 @@
         </div>
         <div class="textContact">
 
-            <form action="https://api.web3forms.com/submit" method="POST" id="form">
+            <form action="https://api.web3forms.com/submit" method="POST" id="form" class="gform">
                 <input type="hidden" name="access_key" value="9eb2606e-8c73-4a12-bb5d-73df177c59d3">
                 <input type="text" class="name" name="name" required placeholder="Your Name">
                 <input type="email" class="email" name="email" required placeholder="E-Mail">
                 <textarea class="message" name="message" required placeholder="Message"></textarea>
-                <div class="h-captcha" data-captcha="true"></div>
+                <div class="captcha">
+                    <div class="h-captcha" data-captcha="true"></div>
+                </div>
                 <button type="submit" class="submit">Submit</button>
             </form>
             <script src="https://web3forms.com/client/script.js" async defer></script>
