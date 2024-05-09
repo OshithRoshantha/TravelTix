@@ -202,8 +202,6 @@
 .footer{
     background: black;
     height: 4vh;
-
-    
 }
 .footerText{
     color: white;
@@ -500,5 +498,8 @@
     }
     .header.visible {
     background-color: transparent; 
+    }
+    .footer{
+        height: auto;
     }
 }
