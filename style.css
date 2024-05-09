@@ -185,7 +185,7 @@
     height: auto;
     width: 17vw;
     margin-right: 23%;
-    
+    display: flex;
 }
 .ttimg{
     margin-top: 26px;
@@ -336,9 +336,8 @@
         height: auto;
         width: 72vw;
     }
-    
     .welcomeText{
-        font-size: 11vw;
+        font-size: 6vh;
         animation: typing 4s steps(40, end), blink-caret 0.75s step-end infinite;
     }
     @keyframes blink-caret {
@@ -346,38 +345,44 @@
         10% { border-color: transparent; }
     }
     .welcomeText2{
-        font-size: 4.5vw;
+        font-size: 3.5vw;
     }
     .header{
         width: 100vw;
         height: 10vh;
         justify-content: center;
-        column-gap: 1vw;
+        column-gap: 0.3%;
         align-items: center;
     }
     .homeb, .findrouteb, .contactb{
-        width: auto;
+        width: 18vw;
         height: 10px;
         font-size: 75%;
-        height: 7vh;
+        height: 10vh;
+        padding: 0%;
+    }
+    .homeb{
+        margin-left: 5vw;
     }
     .contactb{
         padding-right: 0vw;
+        
     }
     .ttlogo{
-        margin-left: 100px;
-        width: 30vw;
-        margin-left: 0px;
+        height: 10vh;
+        width: 22vw;
+        margin-left: -5vw;
         margin-right: 0px;
-        justify-content: center;
+        align-items: center;
     }
     .ttimg{
         width: auto;
-        height: 11vw;
-        margin-left: 0px;
+        height: 60%;
+        margin-top: 0px;
+        
     }
     .contactpage{
-    height: 100vh;
+    height: auto;
     background: linear-gradient(0deg, darkblue, black);
     display: flex;
     flex-direction: column;
@@ -400,7 +405,7 @@
     .textContact{
     width: auto;
     height: 60vh;
-    margin-top: 13vh;
+    margin-top: 27%;
     margin-left: -70vw;
     position: absolute;
     z-index: 999;
@@ -414,10 +419,10 @@
     }
     .heading{
         padding-top: 4%;
-        font-size: 12vw;
+        font-size: 10vw;
     }
     .text{
-        font-size: 4vw;
+        font-size: 3vw;
         padding-left: 10%;
         padding-right: 10%;
 
@@ -425,7 +430,7 @@
     .nextb{
         width: 17vw;
         height: 17vw;
-        margin-top: 62vh;
+        margin-bottom:-10vh;
 
     }
 
