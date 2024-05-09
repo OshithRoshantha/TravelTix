@@ -46,7 +46,9 @@ function scrollToTop() {
 function openPage() {
   window.location.href = "findroute.html";
 }
-
+window.addEventListener('load', function() {
+  document.getElementById('loading-page').style.display = 'none';
+});
 document.addEventListener("DOMContentLoaded", function() {
   setTimeout(function() {
     document.querySelector('.loadtext3').style.display = 'block'; 
