@@ -1,3 +1,4 @@
+
 function welcomeTyping() {
     var element = document.querySelector('.welcomeText');
     var text = element.innerHTML;
@@ -45,3 +46,9 @@ function scrollToTop() {
 function openPage() {
   window.location.href = "findroute.html";
 }
+
+document.addEventListener("DOMContentLoaded", function() {
+  setTimeout(function() {
+    document.querySelector('.loadtext3').style.display = 'block'; 
+  }, 5000);
+});
