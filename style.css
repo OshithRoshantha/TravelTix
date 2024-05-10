@@ -547,7 +547,7 @@
     }
     
 }
-@media screen and (min-width: 480px) and (max-width: 767px) and(orientation: landscape) {
+@media screen and (min-width: 480px) and (max-width: 767px) and (orientation: landscape) {
     .welcomeArea{
         width: 70vw;
         height: 50vh;
@@ -568,9 +568,7 @@
         width: 10vh;
     }
     .homeb, .findrouteb, .contactb{
-        
         font-size: 100%;
-        
     }
     .ttimg{
         width: auto;
@@ -632,7 +630,7 @@
         padding-left: 10%;
         padding-right: 10%;
     
-        }
+    }
     .message{
         margin-top: 0.5vh;
         height: 15vh;
@@ -682,4 +680,99 @@
     .header.visible {
         background-color: transparent; 
     }
-}  
+}
+@media screen and (max-width:920px) and (min-width:768px) {
+    .welcomeArea{
+        width: 70vw;
+        height: 40vh;
+    }
+    .welcomeText{
+        font-size: 6vh;
+    }
+    .welcomeText2{
+        font-size: 3vh;
+    }
+    .footer{
+        background: black;
+        height: auto;
+    }
+    .header.visible {
+        background-color: transparent; 
+    } 
+    .video-element{
+        height: 100vh;
+        object-fit: cover;
+        opacity: 70%;
+        width: 100vw;
+    
+    } 
+    .homeb, .findrouteb, .contactb{
+        font-size: 100%;
+    }
+    .nextb{
+        height: 14vh;
+        width: 14vh;
+        margin-bottom:-0.2vh;
+    }
+    .search{
+        height: 9vh;
+        width: 9vh;
+    }
+    .ttimg{
+        width: auto;
+        height: 100%;
+        margin-top: 4vh;
+        
+    }                  
+}
+@media screen and (max-width:1163px) and (min-width:914px){
+    .homeb, .findrouteb, .contactb{
+        font-size: 110%;
+    } 
+    .video-element{
+        height: 100vh;
+        object-fit: cover;
+        opacity: 70%;
+        width: 100vw;
+    
+    }
+    .ttimg{
+        width: auto;
+        height: 100%;
+        margin-top: 4vh;
+        margin-left: 5vw;
+    }             
+}
+@media screen and (max-width:608px) and (min-width:451px){
+    .nextb{
+        height: 10vh;
+        width: 10vh;
+        margin-top:65vh;
+    }
+    .search{
+        height: 7vh;
+        width: 7vh;
+    } 
+    .heading{
+        top: -6vh;
+        font-size: 5vw;
+    }
+    .text{
+        font-size: 3vw;
+        padding-left: 10%;
+        padding-right: 10%;
+    
+    } 
+    .form{
+        margin-top: -13vh;
+    }
+    .gform{
+        margin-top: -8vh;
+    }
+    .submit{
+        margin-top: 0.2vh;
+        width: 15vw;
+        height: 5vh;
+        font-size: 2.9vw;
+    }          
+}
