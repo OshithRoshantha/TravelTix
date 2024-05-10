@@ -137,7 +137,7 @@
     height: 5.9vw;
     position: absolute;
     z-index: 999;
-    margin-top: 340px;
+    margin-top: 56vh;
     border-radius:50%;
     animation: moveUpDown 0.5s infinite alternate;
     display: flex;
@@ -164,22 +164,6 @@
 }
 .search{
     width: 5vw;
-}
-.awsLogo{
-    width: 400px;
-    height: 4px;
-    position: fixed;
-    margin-top: 550px;
-    margin-left:85vw;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    row-gap: 5px;
-    z-index: 999;
-}
-.aws{
-    width: 7.5vw;
 }
 .ttlogo{
     height: auto;
@@ -459,9 +443,10 @@
     }
 
     .form{
+    position:absolute;
     width: auto;
     height: 60vh;
-    margin-top: -13vh;
+    margin-top: -2vh;
     margin-left: 0px;
     position: absolute;
     z-index: 999;
@@ -498,27 +483,11 @@
     .nextb{
         width: 17vw;
         height: 17vw;
-        margin-bottom:-10vh;
-
+        margin-bottom:-5vh;
     }
 
     .search{
         width: 13vw;
-    }
-    .awsLogo{
-    width: auto;
-    height: auto;
-    position: fixed;
-    margin-top: 75vh;
-    margin-left:60vw;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    z-index: 999;
-    }
-    .aws{
-        width: 23vw;
     }
     .message{
     margin-top: 0.5vh;
@@ -550,9 +519,10 @@
         margin-top: 0.5vh;
     }
     .gform{
+        position:absolute;
         width: 9vw;
         margin-left: -30vw;
-        margin-top: 13vh;
+        top: 20vh;
     }
     .fullSize{
     display: flex;
