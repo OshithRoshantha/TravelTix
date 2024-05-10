@@ -333,21 +333,25 @@
         left: 80%;
     }
     .normal,.lux,.expLux{
-        margin-bottom: 0vh;
-        width: 75vw;
-        height: 10vh;
+        margin-top: -20vh;
+        width: 70vw;
+        height: 15vh;
         margin: 0%;
-    }
-    .containerLower{
-        gap: 2vh;
-        margin-top: 18vh;
-        
     }
     .time{
         position: absolute;
-        top: -8vh;
+        top: 1.5vh;
         height: 10vh;
         font-size: 3vh;
         text-align: center;
+    }
+    .containerLower{
+        background-color: #1c1e28;
+        width: 100%;
+        padding-bottom: 6vw;
+        padding-top: 10vw;
+
+        gap:1.5vh;
+        position: relative;
     }
 }
