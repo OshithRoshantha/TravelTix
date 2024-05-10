@@ -547,4 +547,139 @@
     }
     
 }
-
+@media screen and (orientation: landscape) {
+    .welcomeArea{
+        width: 70vw;
+        height: 50vh;
+    }
+    .welcomeText{
+        font-size: 6vh;
+    }
+    .welcomeText2{
+        font-size: 3vh;
+    }
+    .nextb{
+        height: 15vh;
+        width: 15vh;
+        margin-bottom:-1vh;
+    }
+    .search{
+        height: 10vh;
+        width: 10vh;
+    }
+    .homeb, .findrouteb, .contactb{
+        
+        font-size: 100%;
+        
+    }
+    .ttimg{
+        width: auto;
+        height: 100%;
+        margin-top: 0px;
+        
+    }
+    .loadfooterText{
+        font-size: 1.7vw;
+    }
+    .loader{
+            width: 4vw;
+            height: 4vw;
+    }
+    .loadtext1{
+            font-size: 3vw;
+    }
+    .loadtext2{
+            font-size: 2vw;
+    }
+    .loadtext3{
+            position: absolute;
+            bottom: 20vh;
+            font-size: 1.8vw;
+    }
+    .textContact{
+        width: auto;
+        height: 40vh;
+        margin-top: 27%;
+        margin-left: -70vw;
+        position: absolute;
+        z-index: 999;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .form{
+        position:absolute;
+        width: 40vw;
+        height: 40vh;
+        margin-top: -18vh;
+        margin-left: -57vw;
+        position: absolute;
+        z-index: 999;
+        display: flex;
+        flex-direction: column;
+        row-gap: 2%;
+    }
+  
+    .heading,.text{
+        text-align: center;
+    }
+    .heading{
+        padding-top: 4%;
+        font-size: 5vw;
+    }
+    .text{
+        font-size: 2vw;
+        padding-left: 10%;
+        padding-right: 10%;
+    
+        }
+    .message{
+        margin-top: 0.5vh;
+        height: 15vh;
+        width: 40vw;
+        border-radius: 20px;
+        background-color: transparent;
+        border-color: gold;
+        border-width: 3px;
+        padding-left: 3%;
+        padding-top: 2%;
+    }
+    .name{
+        height: 4vh;
+        width: 25vw;
+    }
+    .email{
+        height: 4vh;
+        width: 30vw;
+        margin-top: 0.5vh;
+    }
+    .submit{
+        margin-top: 0.2vh;
+        width: 10vw;
+        height: 5vh;
+        font-size: 1.5vw;
+    }
+    .h-captcha{
+        margin-top: 0.5vh;
+    }
+    .gform{
+        position:absolute;
+        width: 9vw;
+        margin-left: 28vw;
+        top: -27vh;
+    }
+    .video-element{
+        height: 100vh;
+        object-fit: cover;
+        opacity: 70%;
+        width: 100vw;
+    
+    }
+    .footer{
+        background: black;
+        height: auto;
+    }
+    .header.visible {
+        background-color: transparent; 
+    }
+}  
