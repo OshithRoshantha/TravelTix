@@ -245,6 +245,41 @@
     font-size: 140%;
     font-weight: bold;
 }
+ul {
+    list-style: none;
+  }
+  .list {
+    width: 90%;
+    background-color: #2e3039;
+    border-radius: 20px;
+    position: absolute;
+    top: 35%;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .list-items {
+    padding: 10px 5px;
+  }
+  .list-items:hover {
+    background-color: #1c1e28;
+    border-radius: 20px;
+  }
+  .list2 {
+    width: 90%;
+    background-color: #2e3039;
+    border-radius: 20px;
+    position: absolute;
+    top: 64%;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .list-items2 {
+    padding: 10px 5px;
+  }
+  .list-items2:hover {
+    background-color: #1c1e28;
+    border-radius: 20px;
+  }
 @media only screen and (min-width: 630px) {
     .searchBox{
         flex-direction: row;
