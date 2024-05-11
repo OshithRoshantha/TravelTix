@@ -35,8 +35,8 @@ function normalBus(input1,input2){
         .then(response => response.text())
         .then(csvContent => {
             var lines = csvContent.split("\n");
-            var j=0;//update this while loop after adding more lines (total columns in .csv)
-            while(j<4){
+            var j=0;
+            while(j<lines[0].split(',').length){
                 var count=0;
                 for(var i = 0; i < lines.length; ++i) {
                     var values = lines[i].split(",");
