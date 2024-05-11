@@ -150,10 +150,12 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
     font-weight: 800;
+
 }
 .time{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white; 
+
 }
 .normal,.lux,.expLux{
     width: 87vw;
@@ -280,7 +282,38 @@ ul {
     background-color: #1c1e28;
     border-radius: 20px;
   }
+  .alertMessage{
+    background-color: #1c1e28;
+    width: 100%;
+    height: 85%;
+    position: absolute;
+    top: 13%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .alertText{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 4vh;
+    padding: 10%;
+  }
+  .textHeading{
+    font-weight: bold;
+    font-size: 110%;
+  }
 @media only screen and (min-width: 630px) {
+    .alertText{
+        padding: 0%;
+      }
+    .alertMessage{
+        height: 60%;
+        top: 34%;
+    }
     .searchBox{
         flex-direction: row;
         width: 55%;
@@ -305,9 +338,9 @@ ul {
         font-size: 5vh;
     }
     .normal,.lux,.expLux{
-        margin-top: 15vh;
+        margin-top: 16.6vh;
         width: 18vw;
-        height: 20vh;
+        height: 16vh;
     }
     .header{
         background-color: #1c1e28;
@@ -331,7 +364,19 @@ ul {
     .busIcon{
         padding-left: 1.5%;
     }
-
+    .list,.list2 {
+        width: 37%;
+        background-color: #2e3039;
+        border-radius: 20px;
+        position: absolute;
+        top: 80%;
+        left: 1%;
+        color: white;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      }
+    .list2{
+        left:41%
+    }  
 }
 
 @media only screen and (min-width: 1280px){

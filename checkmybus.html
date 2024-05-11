@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>TravelTix</title>
     <link rel="stylesheet" href="/style3.css">
+    <link rel="icon" href="/Assets/favIcon.png" type="image/x-icon">
 </head>
 <body>
     <div class="header">
@@ -25,7 +26,7 @@
                 <ul class="list"></ul>
                 <input type="text" id="userInput2" class="toBar" placeholder="To">
                 <ul class="list2"></ul>
-                <div class="searchBar" onclick="setTicketPrice()">Find Now</div>
+                <div class="searchBar" onclick="setTicketPrice(),removeAlert()">Find Now</div>
                 <div class="switcher">
                     <img src="/Assets/swap.png" class="swapImg">
                 </div>
@@ -36,7 +37,15 @@
             <div class="time">Current Time
                 <p id="currentTime"></p>
             </div>
-            <div class="normal">
+            <div class="alertMessage" id="alertMessage">
+                <div class="alertIcon">
+
+                </div>
+                <div class="alertText">This includes only the direct routes available from your selected start to the destination.<br>Please note that Luxury Bus and Expressway Luxury Bus fares are not available at the moment.
+                    <div class="textHeading">We're currently updating our database to include more routes and fares.</div>
+                </div>
+            </div>
+            <div class="normal" >
                 <div class="type">
                     <div class="busIcon">
                         <img src="/Assets/icon3.png" class="busImg">
@@ -55,7 +64,7 @@
                     </div>
                 </div>
             </div>
-            <div class="lux">
+            <div class="lux" >
                 <div class="type">
                     <div class="busIcon">
                         <img src="/Assets/icon3.png" class="busImg">
@@ -74,7 +83,7 @@
                     </div>
                 </div>
             </div>
-            <div class="expLux">
+            <div class="expLux" >
                 <div class="type">
                     <div class="busIcon">
                         <img src="/Assets/icon3.png" class="busImg">

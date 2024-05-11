@@ -74,6 +74,14 @@ function normalBus(input1,input2){
         })
         .catch(error => console.error('Error fetching CSV file:', error));
 }
+
+function removeAlert() {
+    var divToDelete = document.getElementById("alertMessage");
+    if (divToDelete) {
+      divToDelete.parentNode.removeChild(divToDelete);
+    } 
+  }
+
 const locations = [
     "Colombo",
     "Maligawatta",
