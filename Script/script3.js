@@ -94,7 +94,7 @@ function displayError() {
 const locations = [
     "Colombo",
     "Maligawatta",
-    "Kalenitissa",
+    "kelanitissa",
     "4th Milepost",
     "Thorana Handiya",
     "University of Kelaniya",
