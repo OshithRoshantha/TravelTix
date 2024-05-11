@@ -27,13 +27,14 @@ function setTicketPrice() {
     var userInput2 = document.getElementById("userInput2").value.trim();
     normalBus(userInput,userInput2);
 }
+
 function normalBus(input1,input2){
     var ticket1, ticket2;
     var ticketNo;
-    var ticketPrice; 
     fetch('Database/normalBus.csv')
         .then(response => response.text())
         .then(csvContent => {
+            var ticketPrice;
             var lines = csvContent.split("\n");
             var j=0;
             while(j<lines[0].split(',').length){
@@ -45,6 +46,7 @@ function normalBus(input1,input2){
                     }
                     if (values[j] !== undefined && input2 === values[j].replace("\r", "")){
                         ++count;
+                        document.querySelector('.errAlert').style.opacity = '100%';
                     }
                 }
                 if(count==2){
@@ -66,6 +68,11 @@ function normalBus(input1,input2){
                         }
                     }
                     document.getElementById("normalTicket").innerHTML="LRK "+ticketPrice;
+                    if(ticketPrice===undefined){
+                      document.querySelector('.errAlert').style.opacity = '100%';
+                    }else{
+                      document.querySelector('.errAlert').style.opacity = '0%';
+                    }
                 }
                 else{
                     ++j;
@@ -74,14 +81,16 @@ function normalBus(input1,input2){
         })
         .catch(error => console.error('Error fetching CSV file:', error));
 }
-
 function removeAlert() {
-    var divToDelete = document.getElementById("alertMessage");
-    if (divToDelete) {
-      divToDelete.parentNode.removeChild(divToDelete);
-    } 
+  var divToDelete = document.getElementById("alertMessage");
+  divToDelete.parentNode.removeChild(divToDelete);
+}
+function displayError() {
+  var errAlert = document.getElementById("errAlert");
+  if (errAlert) {
+      errAlert.style.display = "block";
   }
-
+}
 const locations = [
     "Colombo",
     "Maligawatta",

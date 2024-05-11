@@ -26,7 +26,7 @@
                 <ul class="list"></ul>
                 <input type="text" id="userInput2" class="toBar" placeholder="To">
                 <ul class="list2"></ul>
-                <div class="searchBar" onclick="setTicketPrice(),removeAlert()">Find Now</div>
+                <div class="searchBar" onclick="setTicketPrice(),removeAlert()" id="search">Find Now</div>
                 <div class="switcher">
                     <img src="/Assets/swap.png" class="swapImg">
                 </div>
@@ -37,10 +37,13 @@
             <div class="time">Current Time
                 <p id="currentTime"></p>
             </div>
-            <div class="alertMessage" id="alertMessage">
-                <div class="alertIcon">
-
+            <div class="errAlert" id="errAlert"> 
+                <div class="alertText">Please double-check your input, consider alternative routes or destinations, and ensure all locations are valid.
+                    <div class="textHeading">Apologies,<br><br>It seems there's currently no direct route available between the start and destination or there might be a misspelling in one of the locations you provided.</div>
                 </div>
+            </div>
+            <div class="alertMessage" id="alertMessage">
+                <div class="alertIcon"></div>
                 <div class="alertText">This includes only the direct routes available from your selected start to the destination.<br>Please note that Luxury Bus and Expressway Luxury Bus fares are not available at the moment.
                     <div class="textHeading">We're currently updating our database to include more routes and fares.</div>
                 </div>
