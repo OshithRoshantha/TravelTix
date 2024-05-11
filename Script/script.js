@@ -44,7 +44,7 @@ function scrollToTop() {
   });
 }
 function openPage() {
-  window.location.href = "findroute.html";
+  window.location.href = "checkmybus.html";
 }
 window.addEventListener('load', function() {
   document.getElementById('loading-page').style.display = 'none';

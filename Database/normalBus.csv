@@ -1,0 +1,222 @@
+ticketNo,price,line1,line2
+0,0,Colombo,Colombo
+1,30,Maligawatta,Galleface
+2,38,Kalenitissa,Kollupitiya
+3,50,4th Milepost,Bambalapitiya
+4,61,Thorana Handiya,Wellawatta
+5,73,University of Kelaniya,Dehiwala
+6,84,Kiribathgoda,Mt.Lavinia
+7,96,Mahara,Rathmalana
+8,99,Kadawatha,Katubedda
+9,107,Gonahena,Moratuwa
+10,115,Indigahamulla,Koralawella
+11,122,Kirillawala,Egodauyana
+12,128,Trackmo Handiya,Aluth Palama
+13,136,Mudungoda,Panadura
+14,143,Miriswatta,Nalluruwa Handiya
+15,149,Yakkala,Thalpititya
+16,155,Aluthgama,Wadduwa
+17,163,Kalagedihena,Molligoda
+18,168,Thihariya,Pothupitiya
+19,176,Nittambuwa Sangabodi,Wadiyamankada
+20,182,Nittambuwa,Nagashandiya
+21,189,Kalalpitiya,Kalutara
+22,195,Pasyala,Katukurunda Handiya
+23,203,Kajugama,Malegoda
+24,209,Radawadunna,Payagala
+25,216,Wewaldeniya,Maggona
+26,222,Danowita,Polkotuwa
+27,230,Dummaldeniya,Beruwala
+28,235,Warakapola,Hettimulla Handiya
+29,243,Ambepussa,Moragalla
+30,251,Mahena,Aluthgama
+31,256,Tholangamuwa,Benthota
+32,264,Gasnawawatta Handiya,Warahena
+33,270,Nelumdeniya,Induruwa
+34,277,Batapolathanna ,Maha Induruwa
+35,283,Siyambalapitiya,Duuwa Modara
+36,291,Ballapana Handiya,Kosgoda
+37,297,Galigamuwa,Ahungalla
+38,304,Ambanpitiya,Pathegama
+39,310,Ranwala Handiya,Balapitiya
+40,318,Kegalle,Balapitiya Hospital
+41,323,Meepitiya,Randoba
+42,331,Karandupotha,Ambalangoda
+43,337,Molagoda,Madampe
+44,344,Mangalagama,Akurala
+45,350,Uthuwankanda,Kahawa
+46,358,Anwaram,Thelwatta
+47,364,Mawanella,Sinigama
+48,371,Beligammana,Hikkaduwa
+49,377,Higula,Naarigama
+50,385,Ganethanna,Kumarakanda Handiya
+51,390,Pahala Kadugannawa,Dodanduwa
+52,398,Kadugannawa,Rathgama
+53,404,Henawala,Bussa Army Camp
+54,411,Pilimathalawa,Ginthota
+55,419,Ambilmigama,Ginthota Deport
+56,425,Kiribathkumbura,Maha Modara
+57,432,Peradeniya,Galle
+58,438,Gatambe,Moodaela
+59,446,Mulgampola,Dewata Handiya
+60,452,Kandy,Unawatuna
+61,457,,Dalawella
+62,463,,Thalpe
+63,471,,Habaraduwa
+64,476,,Koggala
+65,484,,Kathaluwa
+66,490,,Wallheengoda
+67,497,,Ahangama
+68,503,,Gowiyapaana
+69,511,,Midigama
+70,517,,Kumbalgama
+71,524,,Weligama
+72,530,,Palaana
+73,538,,Polathumodara
+74,543,,Mirissa
+75,549,,Thalaramba
+76,557,,Kamburugamuwa
+77,562,,Walgama
+78,570,,Nuupe
+79,576,,Mathara
+80,584,,Thudawa
+81,589,,Naadaagala
+82,597,,Banndaththara
+83,603,,Thihagoda
+84,610,,Paloolpitiya
+85,616,,Akurugoda
+86,624,,Mapalana
+87,629,,Kamburupitiya Police
+88,637,,Kamburupitiya Bus Stand
+89,643,,
+90,650,,
+91,656,,
+92,664,,
+93,670,,
+94,677,,
+95,683,,
+96,691,,
+97,696,,
+98,702,,
+99,710,,
+100,716,,
+101,723,,
+102,729,,
+103,737,,
+104,742,,
+105,750,,
+106,756,,
+107,763,,
+108,769,,
+109,777,,
+110,782,,
+111,790,,
+112,796,,
+113,804,,
+114,809,,
+115,817,,
+116,823,,
+117,830,,
+118,836,,
+119,842,,
+120,849,,
+121,855,,
+122,863,,
+123,869,,
+124,876,,
+125,882,,
+126,890,,
+127,895,,
+128,903,,
+129,909,,
+130,916,,
+131,922,,
+132,930,,
+133,936,,
+134,943,,
+135,949,,
+136,957,,
+137,962,,
+138,970,,
+139,976,,
+140,981,,
+141,989,,
+142,995,,
+143,1003,,
+144,1008,,
+145,1016,,
+146,1022,,
+147,1029,,
+148,1035,,
+149,1043,,
+150,1048,,
+151,1056,,
+152,1062,,
+153,1069,,
+154,1075,,
+155,1083,,
+156,1089,,
+157,1096,,
+158,1102,,
+159,1110,,
+160,1115,,
+161,1123,,
+162,1129,,
+163,1135,,
+164,1142,,
+165,1148,,
+166,1156,,
+167,1161,,
+168,1169,,
+169,1175,,
+170,1182,,
+171,1188,,
+172,1196,,
+173,1201,,
+174,1209,,
+175,1215,,
+176,1223,,
+177,1228,,
+178,1236,,
+179,1242,,
+180,1249,,
+181,1255,,
+182,1263,,
+183,1268,,
+184,1274,,
+185,1282,,
+186,1288,,
+187,1295,,
+188,1301,,
+189,1309,,
+190,1314,,
+191,1322,,
+192,1328,,
+193,1335,,
+194,1341,,
+195,1349,,
+196,1355,,
+197,1362,,
+198,1368,,
+199,1376,,
+200,1381,,
+201,1389,,
+202,1395,,
+203,1402,,
+204,1408,,
+205,1416,,
+206,1421,,
+207,1427,,
+208,1435,,
+209,1441,,
+210,1448,,
+211,1454,,
+212,1462,,
+213,1467,,
+214,1475,,
+215,1481,,
+216,1488,,
+217,1494,,
+218,1502,,
+219,1508,,
+220,1515,,

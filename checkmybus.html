@@ -12,18 +12,18 @@
             <img src="/Assets/logo.png" class="iconImg">
         </div>
         <div class="homeb">
-            <div class="Home">Home</div>
+            <div class="HomeDelete" ></div>
         </div>
         <div class="contactb">
-            <div class="ContactUs">Contact Us</div>
+            <div class="ContactUs" onclick="openPage3()">Home</div>
         </div>
     </div>
     <div class="container">
         <div class="containUpper">
             <div class="searchBox">
-                <input type="text" class="fromBar" placeholder="From">
-                <input type="text" class="toBar" placeholder="To">
-                <div class="searchBar">Find Now</div>
+                <input type="text" id="userInput" class="fromBar" placeholder="From">
+                <input type="text" id="userInput2" class="toBar" placeholder="To">
+                <div class="searchBar" onclick="setTicketPrice()">Find Now</div>
                 <div class="switcher">
                     <img src="/Assets/swap.png" class="swapImg">
                 </div>
@@ -49,7 +49,7 @@
                     </div>
                     <div class="right">
                         <div class="upperB">Ticket Price</div>
-                        <div class="lowerB">LRK N/A</div>
+                        <div class="lowerB" id="normalTicket"></div>
                     </div>
                 </div>
             </div>
