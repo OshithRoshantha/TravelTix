@@ -201,7 +201,6 @@ const locations = [
     "Maggona",
     "Polkotuwa",
     "Beruwala",
-    "Hettimulla Handiya",
     "Moragalla",
     "Aluthgama",
     "Benthota",
@@ -443,66 +442,84 @@ const locations = [
     "Sooriyawewa"
 
 ];
-        let sortedNames = locations.sort();
-        let input = document.getElementById("userInput");
-        input.addEventListener("keyup", (e) => {
-          removeElements();
-          for (let i of sortedNames) {
-            if (
-              i.toLowerCase().startsWith(input.value.toLowerCase()) &&
-              input.value != ""
-            ) {
-              let listItem = document.createElement("li");
-              listItem.classList.add("list-items");
-              listItem.style.cursor = "pointer";
-              let word = "<b>" + i.substr(0, input.value.length) + "</b>";
-              word += i.substr(input.value.length);
-              listItem.innerHTML = word;
-              listItem.addEventListener("click", function() {
-                displayNames(i);
-              });
-              document.querySelector(".list").appendChild(listItem);
-            }
-          }
-        });
-        function displayNames(value) {
-          input.value = value;
-          removeElements();
-        }
-        function removeElements() {
-          let items = document.querySelectorAll(".list-items");
-          items.forEach((item) => {
-            item.remove();
-          });
-        }
-        let input2 = document.getElementById("userInput2");
-        input2.addEventListener("keyup", (e) => {
-          removeElements2();
-          for (let i of sortedNames) {
-            if (
-              i.toLowerCase().startsWith(input2.value.toLowerCase()) &&
-              input2.value != ""
-            ) {
-              let listItem = document.createElement("li");
-              listItem.classList.add("list-items2");
-              listItem.style.cursor = "pointer";
-              let word = "<b>" + i.substr(0, input2.value.length) + "</b>";
-              word += i.substr(input2.value.length);
-              listItem.innerHTML = word;
-              listItem.addEventListener("click", function() {
-                displayNames2(i);
-              });
-              document.querySelector(".list2").appendChild(listItem);
-            }
-          }
-        });
-        function displayNames2(value) {
-          input2.value = value;
-          removeElements2();
-        }
-        function removeElements2() {
-          let items = document.querySelectorAll(".list-items2");
-          items.forEach((item) => {
-            item.remove();
-          });
-        }
+
+let sortedNames = locations.sort();
+let input = document.getElementById("userInput");
+let listContainer = document.querySelector(".list");
+
+input.addEventListener("keyup", (e) => {
+  removeElements();
+  let hasSuggestions = false; 
+  for (let i of sortedNames) {
+    if (
+      i.toLowerCase().startsWith(input.value.toLowerCase()) &&
+      input.value != ""
+    ) {
+      let listItem = document.createElement("li");
+      listItem.classList.add("list-items");
+      listItem.style.cursor = "pointer";
+      let word = "<b>" + i.substr(0, input.value.length) + "</b>";
+      word += i.substr(input.value.length);
+      listItem.innerHTML = word;
+      listItem.addEventListener("click", function () {
+        displayNames(i);
+      });
+      listContainer.appendChild(listItem);
+      hasSuggestions = true; 
+    }
+  }
+  listContainer.style.display = hasSuggestions ? "block" : "none";
+});
+
+function displayNames(value) {
+  input.value = value;
+  removeElements();
+  listContainer.style.display = "none";
+}
+
+function removeElements() {
+  let items = document.querySelectorAll(".list-items");
+  items.forEach((item) => {
+    item.remove();
+  });
+}
+
+let input2 = document.getElementById("userInput2");
+let listContainer2 = document.querySelector(".list2");
+
+input2.addEventListener("keyup", (e) => {
+  removeElements2();
+  let hasSuggestions = false; 
+  for (let i of sortedNames) {
+    if (
+      i.toLowerCase().startsWith(input2.value.toLowerCase()) &&
+      input2.value != ""
+    ) {
+      let listItem = document.createElement("li");
+      listItem.classList.add("list-items2");
+      listItem.style.cursor = "pointer";
+      let word = "<b>" + i.substr(0, input2.value.length) + "</b>";
+      word += i.substr(input2.value.length);
+      listItem.innerHTML = word;
+      listItem.addEventListener("click", function () {
+        displayNames2(i);
+      });
+      listContainer2.appendChild(listItem);
+      hasSuggestions = true; 
+    }
+  }
+  listContainer2.style.display = hasSuggestions ? "block" : "none";
+});
+
+function displayNames2(value) {
+  input2.value = value;
+  removeElements2();
+  listContainer2.style.display = "none";
+}
+function removeElements2() {
+  let items = document.querySelectorAll(".list-items2");
+  items.forEach((item) => {
+    item.remove();
+  });
+}
+

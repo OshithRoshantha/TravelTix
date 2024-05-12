@@ -267,6 +267,9 @@ ul {
     color: white;
     font-family: "Inter", sans-serif;
     font-weight: 100;
+    height: 150%; 
+    overflow-y: auto;
+    display: none;
   }
   .list-items {
     padding: 10px 5px;
@@ -284,6 +287,9 @@ ul {
     color: white;
     font-family: "Inter", sans-serif;
     font-weight: 100;
+    height: 150%;
+    overflow-y: auto;
+    display: none;
   }
   .list-items2 {
     padding: 10px 5px;
@@ -462,6 +468,9 @@ ul {
     opacity: 40%;
 }
 @media only screen and (min-width: 630px) {
+    .list,.list2{
+        height: 350%;
+    }
     .alertBox{
         height: 25vh;
         width: 60vh;
