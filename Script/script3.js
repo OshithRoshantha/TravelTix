@@ -84,6 +84,7 @@ function normalBus(input1,input2){
                 }
                 else{
                     ++j;
+                    document.querySelector('.errAlert').style.opacity = '100%';
                 }
             }    
         })
