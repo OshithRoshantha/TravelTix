@@ -1,222 +1,222 @@
-ticketNo,price,line1,line2
-0,0,Colombo,Colombo
-1,30,Maligawatta,Galleface
-2,38,kelanitissa,Kollupitiya
-3,50,4th Milepost,Bambalapitiya
-4,61,Thorana Handiya,Wellawatta
-5,73,University of Kelaniya,Dehiwala
-6,84,Kiribathgoda,Mt.Lavinia
-7,96,Mahara,Rathmalana
-8,99,Kadawatha,Katubedda
-9,107,Gonahena,Moratuwa
-10,115,Indigahamulla,Koralawella
-11,122,Kirillawala,Egodauyana
-12,128,Trackmo Handiya,Aluth Palama
-13,136,Mudungoda,Panadura
-14,143,Miriswatta,Nalluruwa Handiya
-15,149,Yakkala,Thalpititya
-16,155,Aluthgama,Wadduwa
-17,163,Kalagedihena,Molligoda
-18,168,Thihariya,Pothupitiya
-19,176,Nittambuwa Sangabodi,Wadiyamankada
-20,182,Nittambuwa,Nagashandiya
-21,189,Kalalpitiya,Kalutara
-22,195,Pasyala,Katukurunda Handiya
-23,203,Kajugama,Malegoda
-24,209,Radawadunna,Payagala
-25,216,Wewaldeniya,Maggona
-26,222,Danowita,Polkotuwa
-27,230,Dummaldeniya,Beruwala
-28,235,Warakapola,Hettimulla Handiya
-29,243,Ambepussa,Moragalla
-30,251,Mahena,Aluthgama
-31,256,Tholangamuwa,Benthota
-32,264,Gasnawawatta Handiya,Warahena
-33,270,Nelumdeniya,Induruwa
-34,277,Batapolathanna ,Maha Induruwa
-35,283,Siyambalapitiya,Duuwa Modara
-36,291,Ballapana Handiya,Kosgoda
-37,297,Galigamuwa,Ahungalla
-38,304,Ambanpitiya,Pathegama
-39,310,Ranwala Handiya,Balapitiya
-40,318,Kegalle,Balapitiya Hospital
-41,323,Meepitiya,Randoba
-42,331,Karandupotha,Ambalangoda
-43,337,Molagoda,Madampe
-44,344,Mangalagama,Akurala
-45,350,Uthuwankanda,Kahawa
-46,358,Anwaram,Thelwatta
-47,364,Mawanella,Sinigama
-48,371,Beligammana,Hikkaduwa
-49,377,Higula,Naarigama
-50,385,Ganethanna,Kumarakanda Handiya
-51,390,Pahala Kadugannawa,Dodanduwa
-52,398,Kadugannawa,Rathgama
-53,404,Henawala,Bussa Army Camp
-54,411,Pilimathalawa,Ginthota
-55,419,Ambilmigama,Ginthota Deport
-56,425,Kiribathkumbura,Maha Modara
-57,432,Peradeniya,Galle
-58,438,Gatambe,Moodaela
-59,446,Mulgampola,Dewata Handiya
-60,452,Kandy,Unawatuna
-61,457,,Dalawella
-62,463,,Thalpe
-63,471,,Habaraduwa
-64,476,,Koggala
-65,484,,Kathaluwa
-66,490,,Wallheengoda
-67,497,,Ahangama
-68,503,,Gowiyapaana
-69,511,,Midigama
-70,517,,Kumbalgama
-71,524,,Weligama
-72,530,,Palaana
-73,538,,Polathumodara
-74,543,,Mirissa
-75,549,,Thalaramba
-76,557,,Kamburugamuwa
-77,562,,Walgama
-78,570,,Nuupe
-79,576,,Mathara
-80,584,,Thudawa
-81,589,,Naadaagala
-82,597,,Banndaththara
-83,603,,Thihagoda
-84,610,,Paloolpitiya
-85,616,,Akurugoda
-86,624,,Mapalana
-87,629,,Kamburupitiya Police
-88,637,,Kamburupitiya Bus Stand
-89,643,,
-90,650,,
-91,656,,
-92,664,,
-93,670,,
-94,677,,
-95,683,,
-96,691,,
-97,696,,
-98,702,,
-99,710,,
-100,716,,
-101,723,,
-102,729,,
-103,737,,
-104,742,,
-105,750,,
-106,756,,
-107,763,,
-108,769,,
-109,777,,
-110,782,,
-111,790,,
-112,796,,
-113,804,,
-114,809,,
-115,817,,
-116,823,,
-117,830,,
-118,836,,
-119,842,,
-120,849,,
-121,855,,
-122,863,,
-123,869,,
-124,876,,
-125,882,,
-126,890,,
-127,895,,
-128,903,,
-129,909,,
-130,916,,
-131,922,,
-132,930,,
-133,936,,
-134,943,,
-135,949,,
-136,957,,
-137,962,,
-138,970,,
-139,976,,
-140,981,,
-141,989,,
-142,995,,
-143,1003,,
-144,1008,,
-145,1016,,
-146,1022,,
-147,1029,,
-148,1035,,
-149,1043,,
-150,1048,,
-151,1056,,
-152,1062,,
-153,1069,,
-154,1075,,
-155,1083,,
-156,1089,,
-157,1096,,
-158,1102,,
-159,1110,,
-160,1115,,
-161,1123,,
-162,1129,,
-163,1135,,
-164,1142,,
-165,1148,,
-166,1156,,
-167,1161,,
-168,1169,,
-169,1175,,
-170,1182,,
-171,1188,,
-172,1196,,
-173,1201,,
-174,1209,,
-175,1215,,
-176,1223,,
-177,1228,,
-178,1236,,
-179,1242,,
-180,1249,,
-181,1255,,
-182,1263,,
-183,1268,,
-184,1274,,
-185,1282,,
-186,1288,,
-187,1295,,
-188,1301,,
-189,1309,,
-190,1314,,
-191,1322,,
-192,1328,,
-193,1335,,
-194,1341,,
-195,1349,,
-196,1355,,
-197,1362,,
-198,1368,,
-199,1376,,
-200,1381,,
-201,1389,,
-202,1395,,
-203,1402,,
-204,1408,,
-205,1416,,
-206,1421,,
-207,1427,,
-208,1435,,
-209,1441,,
-210,1448,,
-211,1454,,
-212,1462,,
-213,1467,,
-214,1475,,
-215,1481,,
-216,1488,,
-217,1494,,
-218,1502,,
-219,1508,,
-220,1515,,
+ticketNo,price,line1,line2,line3,line4,line5,line6,line7,line8,line9,line10,line11,line12,line13
+0,0,Colombo,Colombo,Negombo,Colombo,Mawanella,Colombo,Colombo,Colombo,Nawam Mawatha,Negombo,Colombo,Colombo,Colombo
+1,30,Maligawatta,Galleface,Thelwatta,Maligawatta,Anwaram,Maligawatta,Maligawatta,Maligawatta,Glass House,Thelwatta,Maligawatta,Galleface,Gamini Hall
+2,38,Kelanitissa,Kollupitiya,Kuurana,Kelanitissa,Uthuwankanda,Kelanitissa,Kelanitissa,Kelanitissa,Race Course,Kuurana,Kelanitissa,Kollupitiya,Town Hall
+3,50,4th Milepost,Bambalapitiya,20th Milepost,4th Milepost,Mangalagama,4th Milepost,4th Milepost,4th Milepost,Jaawatta,20th Milepost,4th Milepost,Bambalapitiya,Thimbirigasyaya
+4,61,Thorana Handiya,Wellawatta,18th Milepost,Thorana Handiya,Molagoda,Thorana Handiya,Thorana Handiya,Thorana Handiya,Borella,18th Milepost,Thorana Handiya,Wellawatta,Kirulapone
+5,73,University of Kelaniya,Dehiwala,Awariwatta,University of Kelaniya,Karandupotha,University of Kelaniya,University of Kelaniya,University of Kelaniya,Dematagoda,Awariwatta,University of Kelaniya,Dehiwala,Nugegoda
+6,84,Kiribathgoda,Mt.Lavinia,Naikanda,Kiribathgoda,Meepitiya,Kiribathgoda,Kiribathgoda,Kiribathgoda,Kelanitissa,Naikanda,Kiribathgoda,Mt.Lavinia,Delkanda
+7,96,Mahara,Rathmalana,Aadiambalama Handiya,Mahara,Kegalle,Mahara,Mahara,Mahara,4th Milepost,Aadiambalama Handiya,Mahara,Rathmalana,Nawinna
+8,99,Kadawatha,Katubedda,Peellawatta,Kadawatha,Ranwala Handiya,Kadawatha,Kadawatha,Kadawatha,Thorana Handiya,Peellawatta,Kadawatha,Katubedda,Maharagama
+9,107,Gonahena,Moratuwa,Yatiyana,Gonahena,Ambanpitiya,Gonahena,Gonahena,Gonahena,University of Kelaniya,Yatiyana,Gonahena,Moratuwa,Pannipitiya
+10,115,Indigahamulla,Koralawella,Minuwangoda Bus Stand,Indigahamulla,Galigamuwa,Indigahamulla,Indigahamulla,Indigahamulla,Kiribathgoda,Minuwangoda Bus Stand,Indigahamulla,Koralawella,Kottawa
+11,122,Kirillawala,Egodauyana,Waagowwa Handiya,Kirillawala,Ballapana Handiya,Kirillawala,Kirillawala,Kirillawala,Mahara,Waagowwa Handiya,Kirillawala,Egodauyana,Makumbura
+12,128,Trackmo Handiya,Aluth Palama,Pamunuwa Handiya,Trackmo Handiya,Siyambalapitiya,Trackmo Handiya,Trackmo Handiya,Trackmo Handiya,Kadawatha,Pamunuwa Handiya,Trackmo Handiya,Aluth Palama,Homagama
+13,136,Mudungoda,Panadura,Dewalapola Handiya,Mudungoda,Batapolathanna,Mudungoda,Mudungoda,Mudungoda,Gonahena,Dewalapola Handiya,Mudungoda,Panadura,Panagoda Army Camp
+14,143,Miriswatta,Nalluruwa Handiya,Walpitamulla,Miriswatta,Nelumdeniya,Miriswatta,Miriswatta,Miriswatta,Indigahamulla,Walpitamulla,Miriswatta,Nalluruwa Handiya,Godagama
+15,149,Yakkala,Thalpititya,Naiwala Handiya,Yakkala,Gasnawawatta Handiya,Yakkala,Yakkala,Yakkala,Kirillawala,Naiwala Handiya,Yakkala,Thalpititya,Naduhena
+16,155,Aluthgama,Wadduwa,Wataddara,Aluthgama,Tholangamuwa,Aluthgama,Aluthgama,Aluthgama,Trackmo Handiya,Wataddara,Aluthgama,Wadduwa,Watareka 20th Milepost
+17,163,Kalagedihena,Molligoda,Veyangoda Bus Stand,Kalagedihena,Mahena,Kalagedihena,Kalagedihena,Kalagedihena,Mudungoda,Veyangoda Bus Stand,Kalagedihena,Molligoda,Galagedra Bridge
+18,168,Thihariya,Pothupitiya,Udammita,Thihariya,Ambepussa,Thihariya,Thihariya,Thihariya,Miriswatta,Udammita,Thihariya,Pothupitiya,Meepe Handiya
+19,176,Nittambuwa Sangabodi,Wadiyamankada,Nittambuwa,Nittambuwa Sangabodi,Warakapola,Nittambuwa Sangabodi,Nittambuwa Sangabodi,Nittambuwa Sangabodi,Yakkala,Nittambuwa,Nittambuwa Sangabodi,Wadiyamankada,Mawathagama
+20,182,Nittambuwa,Nagashandiya,Kalalpitiya,Nittambuwa,Dummaldeniya,Nittambuwa,Nittambuwa,Nittambuwa,Aluthgama,Kalalpitiya,Nittambuwa,Nagashandiya,Waththekade
+21,189,Kalalpitiya,Kalutara,Pasyala,Kalalpitiya,Danowita,Kalalpitiya,Kalalpitiya,Kalalpitiya,Kalagedihena,Pasyala,Kalalpitiya,Kalutara,Pahathgama
+22,195,Pasyala,Katukurunda Handiya,Kajugama,Pasyala,Wewaldeniya,Pasyala,Pasyala,Pasyala,Thihariya,Kajugama,Pasyala,Katukurunda Handiya,Kaluaggala
+23,203,Kajugama,Malegoda,Radawadunna,Kajugama,Radawadunna,Kajugama,Kajugama,Kajugama,Nittambuwa Sangabodi,Radawadunna,Kajugama,Malegoda,Suduwella
+24,209,Radawadunna,Payagala,Wewaldeniya,Radawadunna,Kajugama,Radawadunna,Radawadunna,Radawadunna,Nittambuwa,Wewaldeniya,Radawadunna,Payagala,Shaalawa
+25,216,Wewaldeniya,Maggona,Danowita,Wewaldeniya,Pasyala,Wewaldeniya,Wewaldeniya,Wewaldeniya,Kalalpitiya,Danowita,Wewaldeniya,Maggona,Kosgama
+26,222,Danowita,Polkotuwa,Dummaldeniya,Danowita,Kalalpitiya,Danowita,Danowita,Danowita,Pasyala,Dummaldeniya,Danowita,Polkotuwa,Aluth Ambalama
+27,230,Dummaldeniya,Beruwala,Warakapola,Dummaldeniya,Nittambuwa,Dummaldeniya,Dummaldeniya,Dummaldeniya,Kajugama,Warakapola,Dummaldeniya,Beruwala,Hingurala
+28,235,Warakapola,Hettimulla Handiya,Ambepussa,Warakapola,Nittambuwa Sangabodi,Warakapola,Warakapola,Warakapola,Radawadunna,Ambepussa,Warakapola,Hettimulla Handiya,Puwakpitiya
+29,243,Ambepussa,Moragalla,Mahena,Ambepussa,Thihariya,Ambepussa,Ganithapura,Ganithapura,Wewaldeniya,Mahena,Ambepussa,Moragalla,Ukkwatta
+30,251,Mahena,Aluthgama,Tholangamuwa,Mahena,Kalagedihena,Mahena,Thalliyadda,Thalliyadda,Danowita,Tholangamuwa,Mahena,Aluthgama,Awissawella
+31,256,Tholangamuwa,Benthota,Gasnawawatta Handiya,Tholangamuwa,Aluthgama,Tholangamuwa,Koongoda Handiya,Dorawaka,Dummaldeniya,Gasnawawatta Handiya,Tholangamuwa,Benthota,Maadola
+32,264,Gasnawawatta Handiya,Warahena,Nelumdeniya,Gasnawawatta Handiya,Yakkala,Gasnawawatta Handiya,Niyadurupola,Galamuna Wele Kade,Warakapola,Nelumdeniya,Gasnawawatta Handiya,Warahena,Dehigahapitiya
+33,270,Nelumdeniya,Induruwa,Batapolathanna ,Nelumdeniya,Miriswatta,Nelumdeniya,Hallawa,Kohombadeniya School Halt,Ambepussa,Batapolathanna ,Nelumdeniya,Induruwa,Gatahaththa
+34,277,Batapolathanna ,Maha Induruwa,Siyambalapitiya,Batapolathanna ,Mudungoda,Batapolathanna ,Galapitamada,Manikkadawara,Mahena,Siyambalapitiya,Batapolathanna ,Maha Induruwa,Minnana
+35,283,Siyambalapitiya,Duuwa Modara,Ballapana Handiya,Siyambalapitiya,Trackmo Handiya,Siyambalapitiya,,Imbulowita,Tholangamuwa,Ballapana Handiya,Siyambalapitiya,Duuwa Modara,Thoranakada
+36,291,Ballapana Handiya,Kosgoda,Galigamuwa,Ballapana Handiya,Kirillawala,Ballapana Handiya,,,Gasnawawatta Handiya,Galigamuwa,Ballapana Handiya,Kosgoda,Mooragala Handiya
+37,297,Galigamuwa,Ahungalla,Ambanpitiya,Galigamuwa,Indigahamulla,Galigamuwa,,,Nelumdeniya,Ambanpitiya,Galigamuwa,Ahungalla,Eheliyagoda
+38,304,Ambanpitiya,Pathegama,Ranwala Handiya,Ambanpitiya,Gonahena,Ambanpitiya,,,Batapolathanna ,Ranwala Handiya,Ambanpitiya,Pathegama,Maahingoda
+39,310,Ranwala Handiya,Balapitiya,Kegalle,Ranwala Handiya,Kadawatha,Ranwala Handiya,,,Siyambalapitiya,Kegalle,Ranwala Handiya,Balapitiya,Thalaawitiya
+40,318,Kegalle,Balapitiya Hospital,,Kegalle,Mahara,Kegalle,,,Ballapana Handiya,Meepitiya,Kegalle,Balapitiya Hospital,Bodhi Maluwa
+41,323,Meepitiya,Randoba,,Ashokaramaya,Kiribathgoda,Meepitiya,,,Galigamuwa,Karandupotha,Meepitiya,Randoba,Parakaduwa
+42,331,Karandupotha,Ambalangoda,,Paragammana Handiya,University of Kelaniya,Karandupotha,,,Ambanpitiya,Molagoda,Karandupotha,Ambalangoda,Thiriwaana 43th Milepost
+43,337,Molagoda,Madampe,,Maathura School Halt,Thorana Handiya,Molagoda,,,Ranwala Handiya,Mangalagama,Molagoda,Madampe,Pussella
+44,344,Mangalagama,Akurala,,Hettimulla Handiya,4th Milepost,Mangalagama,,,Kegalle,Uthuwankanda,Mangalagama,Akurala,Millawitiya
+45,350,Uthuwankanda,Kahawa,,5th Milepost,Kelanitissa,Uthuwankanda,,,Meepitiya,Anwaram,Uthuwankanda,Kahawa,Higgashena
+46,358,Anwaram,Thelwatta,,Moronthota,Dematagoda,Anwaram,,,Karandupotha,Mawanella,Anwaram,Weragoda,Kuruwita Bus Halt
+47,364,Mawanella,Sinigama,,Maaboopitiya Handiya,Borella,Mawanella,,,Molagoda,Beligammana,Mawanella,Mitiyaagoda,Paradise Handiya
+48,371,Beligammana,Hikkaduwa,,Undugoda Nikapitiya Handiya,Narahenpita,Kappagoda Handiya,,,Mangalagama,Higula,Beligammana,Nindaana,Batuhena School Halt
+49,377,Higula,Naarigama,,Thannimale,,Daaswatta Handiya,,,Uthuwankanda,Ganethanna,Higula,Batapola,Panukaraapitiya
+50,385,Ganethanna,Kumarakanda Handiya,,,,Ussaapitiya,,,Anwaram,Pahala Kadugannawa,Ganethanna,Kahatapitiya,Farmgarden
+51,390,Pahala Kadugannawa,Dodanduwa,,,,Alupotha,,,Mawanella,Kadugannawa,Pahala Kadugannawa,Maanampitigama,Hospital Junction
+52,398,Kadugannawa,Rathgama,,,,Polambeegoda,,,Beligammana,Henawala,Kadugannawa,Apegama Handiya,Rathnapura Bus Halt
+53,404,Henawala,Bussa Army Camp,,,,Gawilipitiya,,,Higula,Pilimathalawa,Henawala,Waaniyawela Ambalama,Rathnapura Deport
+54,411,Pilimathalawa,Ginthota,,,,Dippitiya,,,Ganethanna,Ambilmigama,Pilimathalawa,Duunawatta,Batugedara School Halt
+55,419,Ambilmigama,Ginthota Deport,,,,Habalanthota Handiya,,,Pahala Kadugannawa,Kiribathkumbura,Ambilmigama,Baddegama,Thiriwana Katiya Handiya
+56,425,Kiribathkumbura,Maha Modara,,,,Thalgaspitiya,,,Kadugannawa,Peradeniya,Kiribathkumbura,,Palwaadiya
+57,432,Peradeniya,Galle,,,,Pethigammana 1st Milepost,,,Henawala,Gatambe,Peradeniya,,Pathulpaana School Halt
+58,438,Gatambe,Moodaela,,,,Hemmathagama,,,Pilimathalawa,Mulgampola,Gatambe,,Welimaluwa
+59,446,Mulgampola,Dewata Handiya,,,,,,,Ambilmigama,Kandy,Mulgampola,,Lellupitiya Handiya
+60,452,Kandy,Unawatuna,,,,,,,Kiribathkumbura,,Kandy,,Dippitigala
+61,457,,Dalawella,,,,,,,Peradeniya,,Swiss Hotel,,Paathakada
+62,463,,Thalpe,,,,,,,Gatambe,,Buuwalikada,,Ganeegama
+63,471,,Habaraduwa,,,,,,,Mulgampola,,Thannekumbura,,Pelmadulla
+64,476,,Koggala,,,,,,,Kandy,,Kundasale,,Batalanda
+65,484,,Kathaluwa,,,,,,,,,Gammudawa,,Panawenna
+66,490,,Wallheengoda,,,,,,,,,Pallekale Army Camp,,Ketetanna
+67,497,,Ahangama,,,,,,,,,Balagolla,,Kahawatta Bus Halt
+68,503,,Gowiyapaana,,,,,,,,,Kengalla,,Yaainna Handiya
+69,511,,Midigama,,,,,,,,,Kalasirigama Handiya,,Ellagewatta Handiya
+70,517,,Kumbalgama,,,,,,,,,Menikhinna,,Ambalanwatta
+71,524,,Weligama,,,,,,,,,,,Maadampe Handiya
+72,530,,Palaana,,,,,,,,,,,Kawuduwaawa
+73,538,,Polathumodara,,,,,,,,,,,Allpitiya
+74,543,,Mirissa,,,,,,,,,,,Malwatta
+75,549,,Thalaramba,,,,,,,,,,,Godakawela
+76,557,,Kamburugamuwa,,,,,,,,,,,Kossnathota
+77,562,,Walgama,,,,,,,,,,,Balawinna Town
+78,570,,Nuupe,,,,,,,,,,,Karuwalagaha Turn
+79,576,,Mathara,,,,,,,,,,,Pallebadda
+80,584,,Thudawa,,,,,,,,,,,Giradura
+81,589,,Naadaagala,,,,,,,,,,,Koswatiya Bo Tree
+82,597,,Banndaththara,,,,,,,,,,,Dematagala
+83,603,,Thihagoda,,,,,,,,,,,Sankapaala
+84,610,,Paloolpitiya,,,,,,,,,,,Kolambagee Aara School Halt
+85,616,,Akurugoda,,,,,,,,,,,Kolambagee Aara
+86,624,,Mapalana,,,,,,,,,,,96 KM Post
+87,629,,Kamburupitiya Police,,,,,,,,,,,98 KM Post
+88,637,,Kamburupitiya Bus Stand,,,,,,,,,,,99 KM Post
+89,643,,,,,,,,,,,,,Galwanguwa
+90,650,,,,,,,,,,,,,Udagama Handiya
+91,656,,,,,,,,,,,,,Embilipitiya Bus Stand
+92,664,,,,,,,,,,,,,1st Post Bo Tree
+93,670,,,,,,,,,,,,,Moraketiya School Halt
+94,677,,,,,,,,,,,,,3rd Milepost
+95,683,,,,,,,,,,,,,Moraketiya Handiya
+96,691,,,,,,,,,,,,,Mahaanaaga School Halt
+97,696,,,,,,,,,,,,,Uurusitana Dam
+98,702,,,,,,,,,,,,,Hathporuwa Handiya
+99,710,,,,,,,,,,,,,Weeriyagama
+100,716,,,,,,,,,,,,,10th Milepost
+101,723,,,,,,,,,,,,,Galwewa Handiya
+102,729,,,,,,,,,,,,,Sooriyawewa
+103,737,,,,,,,,,,,,,
+104,742,,,,,,,,,,,,,
+105,750,,,,,,,,,,,,,
+106,756,,,,,,,,,,,,,
+107,763,,,,,,,,,,,,,
+108,769,,,,,,,,,,,,,
+109,777,,,,,,,,,,,,,
+110,782,,,,,,,,,,,,,
+111,790,,,,,,,,,,,,,
+112,796,,,,,,,,,,,,,
+113,804,,,,,,,,,,,,,
+114,809,,,,,,,,,,,,,
+115,817,,,,,,,,,,,,,
+116,823,,,,,,,,,,,,,
+117,830,,,,,,,,,,,,,
+118,836,,,,,,,,,,,,,
+119,842,,,,,,,,,,,,,
+120,849,,,,,,,,,,,,,
+121,855,,,,,,,,,,,,,
+122,863,,,,,,,,,,,,,
+123,869,,,,,,,,,,,,,
+124,876,,,,,,,,,,,,,
+125,882,,,,,,,,,,,,,
+126,890,,,,,,,,,,,,,
+127,895,,,,,,,,,,,,,
+128,903,,,,,,,,,,,,,
+129,909,,,,,,,,,,,,,
+130,916,,,,,,,,,,,,,
+131,922,,,,,,,,,,,,,
+132,930,,,,,,,,,,,,,
+133,936,,,,,,,,,,,,,
+134,943,,,,,,,,,,,,,
+135,949,,,,,,,,,,,,,
+136,957,,,,,,,,,,,,,
+137,962,,,,,,,,,,,,,
+138,970,,,,,,,,,,,,,
+139,976,,,,,,,,,,,,,
+140,981,,,,,,,,,,,,,
+141,989,,,,,,,,,,,,,
+142,995,,,,,,,,,,,,,
+143,1003,,,,,,,,,,,,,
+144,1008,,,,,,,,,,,,,
+145,1016,,,,,,,,,,,,,
+146,1022,,,,,,,,,,,,,
+147,1029,,,,,,,,,,,,,
+148,1035,,,,,,,,,,,,,
+149,1043,,,,,,,,,,,,,
+150,1048,,,,,,,,,,,,,
+151,1056,,,,,,,,,,,,,
+152,1062,,,,,,,,,,,,,
+153,1069,,,,,,,,,,,,,
+154,1075,,,,,,,,,,,,,
+155,1083,,,,,,,,,,,,,
+156,1089,,,,,,,,,,,,,
+157,1096,,,,,,,,,,,,,
+158,1102,,,,,,,,,,,,,
+159,1110,,,,,,,,,,,,,
+160,1115,,,,,,,,,,,,,
+161,1123,,,,,,,,,,,,,
+162,1129,,,,,,,,,,,,,
+163,1135,,,,,,,,,,,,,
+164,1142,,,,,,,,,,,,,
+165,1148,,,,,,,,,,,,,
+166,1156,,,,,,,,,,,,,
+167,1161,,,,,,,,,,,,,
+168,1169,,,,,,,,,,,,,
+169,1175,,,,,,,,,,,,,
+170,1182,,,,,,,,,,,,,
+171,1188,,,,,,,,,,,,,
+172,1196,,,,,,,,,,,,,
+173,1201,,,,,,,,,,,,,
+174,1209,,,,,,,,,,,,,
+175,1215,,,,,,,,,,,,,
+176,1223,,,,,,,,,,,,,
+177,1228,,,,,,,,,,,,,
+178,1236,,,,,,,,,,,,,
+179,1242,,,,,,,,,,,,,
+180,1249,,,,,,,,,,,,,
+181,1255,,,,,,,,,,,,,
+182,1263,,,,,,,,,,,,,
+183,1268,,,,,,,,,,,,,
+184,1274,,,,,,,,,,,,,
+185,1282,,,,,,,,,,,,,
+186,1288,,,,,,,,,,,,,
+187,1295,,,,,,,,,,,,,
+188,1301,,,,,,,,,,,,,
+189,1309,,,,,,,,,,,,,
+190,1314,,,,,,,,,,,,,
+191,1322,,,,,,,,,,,,,
+192,1328,,,,,,,,,,,,,
+193,1335,,,,,,,,,,,,,
+194,1341,,,,,,,,,,,,,
+195,1349,,,,,,,,,,,,,
+196,1355,,,,,,,,,,,,,
+197,1362,,,,,,,,,,,,,
+198,1368,,,,,,,,,,,,,
+199,1376,,,,,,,,,,,,,
+200,1381,,,,,,,,,,,,,
+201,1389,,,,,,,,,,,,,
+202,1395,,,,,,,,,,,,,
+203,1402,,,,,,,,,,,,,
+204,1408,,,,,,,,,,,,,
+205,1416,,,,,,,,,,,,,
+206,1421,,,,,,,,,,,,,
+207,1427,,,,,,,,,,,,,
+208,1435,,,,,,,,,,,,,
+209,1441,,,,,,,,,,,,,
+210,1448,,,,,,,,,,,,,
+211,1454,,,,,,,,,,,,,
+212,1462,,,,,,,,,,,,,
+213,1467,,,,,,,,,,,,,
+214,1475,,,,,,,,,,,,,
+215,1481,,,,,,,,,,,,,
+216,1488,,,,,,,,,,,,,
+217,1494,,,,,,,,,,,,,
+218,1502,,,,,,,,,,,,,
+219,1508,,,,,,,,,,,,,
+220,1515,,,,,,,,,,,,,
