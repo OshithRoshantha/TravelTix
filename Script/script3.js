@@ -4,6 +4,7 @@ document.querySelector('.switcher').addEventListener('click', function() {
     document.querySelector('.fromBar').value = toInput;
     document.querySelector('.toBar').value = fromInput;
 });
+
 function updateTime() {
     var now = new Date();
     var hours = now.getHours();
@@ -19,9 +20,11 @@ function updateTime() {
     document.getElementById('currentTime').innerText = timeString;
 }
 setInterval(updateTime, 1000);
+
 function openPage3() {
     window.location.href = "index.html";
 }
+
 var currentDate = new Date();
 var day = currentDate.getDate();
 var month = currentDate.getMonth() + 1;
@@ -30,6 +33,7 @@ var formattedDate = day + '/' + month + '/' + year;
 var normalText = "There is no available connection on this route for ";
 var finalText = normalText + formattedDate;
 document.getElementById('date').innerHTML = finalText;
+
 function setTicketPrice() {
     var userInput = document.getElementById("userInput").value.trim();
     var userInput2 = document.getElementById("userInput2").value.trim();
@@ -90,16 +94,19 @@ function normalBus(input1,input2){
         })
         .catch(error => console.error('Error fetching CSV file:', error));
 }
+
 function removeAlert() {
   var divToDelete = document.getElementById("alertMessage");
   divToDelete.parentNode.removeChild(divToDelete);
 }
+
 function displayError() {
   var errAlert = document.getElementById("errAlert");
   if (errAlert) {
       errAlert.style.display = "block";
   }
 }
+
 const locations = [
     "Colombo",
     "Maligawatta",

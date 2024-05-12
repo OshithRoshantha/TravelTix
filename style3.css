@@ -35,13 +35,12 @@
 .footer{
     width: 100%;
     text-align: center;
-    position: relative;
+    position: absolute;
     bottom: 0vh;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
 }
 .footerText{
-    
     font-size: 2vh;
     background-color: black;
 }
@@ -348,12 +347,12 @@ ul {
       }
     .alertMessage{
         height: 70%;
-        top: 26%;
-        font-size: 140%;
+        top: 24%;
+        font-size: 120%;
     }
     .errAlert{
         height: 70%;
-        top: 26%;
+        top: 24%;
         font-size: 130%;
     }
     .errorImg{
@@ -370,12 +369,9 @@ ul {
         flex-direction: row;
         height: 42.2vh;
     }
-    .footerText{
-        font-size: 1vw;
-    }
     .time{
         position: absolute;
-        top: 3vh;
+        top: 2%;
         height: 10vh;
         font-size: 3vh;
         text-align: center;
@@ -450,13 +446,7 @@ ul {
     .switcher{
         left: 35.4%;
     }
-    .time{
-        position: absolute;
-        top: 6vh;
-        height: 10vh;
-        font-size: 3vh;
-        text-align: center;
-    }
+
     .details{
         padding-top: 1%;
     }
@@ -471,21 +461,12 @@ ul {
         height: 15vh;
         margin: 0%;
     }
-    .time{
-        position: absolute;
-        top: 1.5vh;
-        height: 10vh;
-        font-size: 3vh;
-        text-align: center;
-    }
-    .containerLower{
+   .containerLower{
         background-color: #1c1e28;
         width: 100%;
         padding-bottom: 6vw;
         padding-top: 10vw;
-
         gap:1.5vh;
         position: relative;
     }
 }
-
