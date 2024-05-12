@@ -412,6 +412,9 @@ ul {
         width: auto;
         height: 70%;
     }
+    .details{
+        padding-top: 4%;
+    }
     .list,.list2 {
         width: 37%;
         background-color: #2e3039;
@@ -445,7 +448,7 @@ ul {
         width: 80%;
     }
     .switcher{
-        left: 32%;
+        left: 35.4%;
     }
     .time{
         position: absolute;
@@ -453,6 +456,9 @@ ul {
         height: 10vh;
         font-size: 3vh;
         text-align: center;
+    }
+    .details{
+        padding-top: 1%;
     }
 }
 @media only screen and (min-width: 555px) and (max-width: 629px){
