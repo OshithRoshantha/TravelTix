@@ -22,6 +22,14 @@ setInterval(updateTime, 1000);
 function openPage3() {
     window.location.href = "index.html";
 }
+var currentDate = new Date();
+var day = currentDate.getDate();
+var month = currentDate.getMonth() + 1;
+var year = currentDate.getFullYear();
+var formattedDate = day + '/' + month + '/' + year;
+var normalText = "There is no available connection on this route for ";
+var finalText = normalText + formattedDate;
+document.getElementById('date').innerHTML = finalText;
 function setTicketPrice() {
     var userInput = document.getElementById("userInput").value.trim();
     var userInput2 = document.getElementById("userInput2").value.trim();
@@ -224,7 +232,7 @@ const locations = [
     "Midigama",
     "Kumbalgama",
     "Weligama",
-    "Palaana",
+    "Pelena",
     "Polathumodara",
     "Mirissa",
     "Thalaramba",
