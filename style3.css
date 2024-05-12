@@ -39,6 +39,7 @@
     bottom: 0vh;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
+    z-index: 9999;
 }
 .footerText{
     font-size: 2vh;
@@ -445,6 +446,13 @@ ul {
     opacity: 40%;
 }
 @media only screen and (min-width: 630px) {
+    .alertBox{
+        height: 25vh;
+        width: 60vh;
+        left: 50%;
+        top: 50%;
+        gap:8%;
+     }
     .alertMessage2{
         flex-direction: row;
         height: 60%;
