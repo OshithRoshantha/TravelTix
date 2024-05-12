@@ -25,6 +25,11 @@ function openPage3() {
     window.location.href = "index.html";
 }
 
+function closePopup() {
+  document.getElementById("alertBox").style.display = "none";
+  document.getElementById("opac").style.display = "none";
+}
+
 var currentDate = new Date();
 var day = currentDate.getDate();
 var month = currentDate.getMonth() + 1;

@@ -8,6 +8,7 @@
     <link rel="icon" href="/Assets/favIcon.png" type="image/x-icon">
 </head>
 <body style="background-color: #1c1e28;">
+    <div class="opac" id="opac"></div>
     <div class="header">
         <div class="icon">
             <img src="/Assets/logo.png" class="iconImg">
@@ -20,6 +21,13 @@
         </div>
     </div>
     <div class="container">
+        <div class="alertBox" id="alertBox">
+            <div class="closeButton" onclick="closePopup()">
+                <img src="/Assets/closeButton.png" class="closeImg">
+            </div>
+            <h3 class="alertHead1">We're currently updating our database to include more routes and fares.</h3>
+            <h5 class="alertText1">Please note that Luxury Bus and Expressway Luxury Bus fares are not available at the moment.</h5>
+        </div>
         <div class="containUpper">
             <div class="searchBox">
                 <input type="text" id="userInput" class="fromBar" placeholder="From">

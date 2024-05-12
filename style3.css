@@ -389,6 +389,61 @@ ul {
   .dIcon{
     width: 60%;
  }
+ .alertBox{
+    background-color: red;
+    height: 60vw;
+    width: 80vw;
+    position: absolute;
+    z-index: 9999;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap:8%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    animation: expandContract 0.5s infinite alternate;
+ }
+ @keyframes expandContract {
+    0% {
+        box-shadow: 0 20px 22px rgba(0, 0, 0, 0.5);
+    }
+    100% {
+
+    }
+  }
+.closeButton{
+    background-color: gold;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    position: absolute;
+    top:-7%;
+    right: -3%;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+ .closeButton:active {
+    background-color: #8f7510; 
+}
+.closeImg{
+    height: 45%;
+}
+.opac{
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    background-color: white;
+    z-index: 9999;
+    opacity: 40%;
+}
 @media only screen and (min-width: 630px) {
     .alertMessage2{
         flex-direction: row;
@@ -521,6 +576,12 @@ ul {
     .details{
         padding-top: 1%;
     }
+    .alertMessage2{
+        flex-direction: row;
+        height: 70%;
+        top: 28%;
+        flex-wrap: wrap;
+    }
 }
 @media only screen and (min-width: 555px) and (max-width: 629px){
     .switcher{
@@ -539,5 +600,15 @@ ul {
         padding-top: 10vw;
         gap:1.5vh;
         position: relative;
+    }
+    .alertMessage2{
+        flex-direction: row;
+        height: 80%;
+        top: 20%;
+        flex-wrap: wrap;
+    }
+    .footer{
+        position: absolute;
+        bottom: -10%;
     }
 }
