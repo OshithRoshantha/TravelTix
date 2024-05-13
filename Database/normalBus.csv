@@ -1,222 +1,222 @@
-ticketNo,price,line1,line2,line3,line4,line5,line6,line7,line8,line9,line10,line11,line12,line13,line14,line15,line16,line17,line18,line19,line18,line19,line20
-0,0,Colombo Fort,Colombo Fort,Negombo,Colombo Fort,Mawanella,Colombo Fort,Colombo Fort,Colombo Fort,Nawam Mawatha,Negombo,Colombo Fort,Colombo Fort,Colombo Fort,Colombo Fort,Colombo Fort,Colombo Fort,Colombo Fort,Colombo Fort,Chilaw,Chilaw,Colombo Fort,Hatton
-1,30,Maligawatta,Galleface,Thelwatta,Maligawatta,Anwaram,Maligawatta,Maligawatta,Maligawatta,Glass House,Thelwatta,Maligawatta,Galleface,Gamini Hall,Jethawanaramaya Temple,Jethawanaramaya Temple,Jethawanaramaya Temple,Jethawanaramaya Temple,Jethawanaramaya Temple,Merawala,Merawala,Jethawanaramaya Temple,Malliyapu Junction
-2,38,Kelanitissa,Kollupitiya,Kuurana,Kelanitissa,Uthuwankanda,Kelanitissa,Kelanitissa,Kelanitissa,Race Course,Kuurana,Kelanitissa,Kollupitiya,Town Hall,Thotalanga,Thotalanga,Thotalanga,Thotalanga,Thotalanga,Kaakkapalliya,Kaakkapalliya,Thotalanga,Dimale
-3,50,4th Milepost,Bambalapitiya,20th Milepost,4th Milepost,Mangalagama,4th Milepost,4th Milepost,4th Milepost,Jaawatta,20th Milepost,4th Milepost,Bambalapitiya,Thimbirigasyaya,Peliyagoda,Peliyagoda,Peliyagoda,Peliyagoda,Peliyagoda,Pammbala,Pammbala,Peliyagoda,Woodland Bazaar
-4,61,Thorana Handiya,Wellawatta,18th Milepost,Thorana Handiya,Molagoda,Thorana Handiya,Thorana Handiya,Thorana Handiya,Borella,18th Milepost,Thorana Handiya,Wellawatta,Kirulapone,Wattala Postoffice,Wattala Postoffice,Wattala Postoffice,Wattala Postoffice,Wattala Postoffice,Galahitiyawa Handiya,Galahitiyawa Handiya,Wattala Postoffice,Kuilwatte
-5,73,University of Kelaniya,Dehiwala,Awariwatta,University of Kelaniya,Karandupotha,University of Kelaniya,University of Kelaniya,University of Kelaniya,Dematagoda,Awariwatta,University of Kelaniya,Dehiwala,Nugegoda,Maabola,Maabola,Maabola,Maabola,Maabola,Madampe,Madampe,Maabola,Rossella
-6,84,Kiribathgoda,Mt.Lavinia,Naikanda,Kiribathgoda,Meepitiya,Kiribathgoda,Kiribathgoda,Kiribathgoda,Kelanitissa,Naikanda,Kiribathgoda,Mt.Lavinia,Delkanda,Mahabage,Mahabage,Mahabage,Mahabage,Mahabage,Mahawewa,Mahawewa,Mahabage,Watawala Sinhala Vidyalaya
-7,96,Mahara,Rathmalana,Aadiambalama Handiya,Mahara,Kegalle,Mahara,Mahara,Mahara,4th Milepost,Aadiambalama Handiya,Mahara,Rathmalana,Nawinna,Kandana ,Kandana ,Kandana ,Kandana ,Kandana ,Thalwila,Thalwila,Kandana ,Watawala
-8,99,Kadawatha,Katubedda,Peellawatta,Kadawatha,Ranwala Handiya,Kadawatha,Kadawatha,Kadawatha,Thorana Handiya,Peellawatta,Kadawatha,Katubedda,Maharagama,Kapuwatta,Kapuwatta,Kapuwatta,Kapuwatta,Kapuwatta,Marawila,Marawila,Kapuwatta,Karalina
-9,107,Gonahena,Moratuwa,Yatiyana,Gonahena,Ambanpitiya,Gonahena,Gonahena,Gonahena,University of Kelaniya,Yatiyana,Gonahena,Moratuwa,Pannipitiya,Ja-Ela Bus Stand,Ja-Ela Bus Stand,Ja-Ela Bus Stand,Ja-Ela Bus Stand,Ja-Ela Bus Stand,Marawila Hospital,Marawila Hospital,Ja-Ela Bus Stand,Diyagala Junction
-10,115,Indigahamulla,Koralawella,Minuwangoda Bus Stand,Indigahamulla,Galigamuwa,Indigahamulla,Indigahamulla,Indigahamulla,Kiribathgoda,Minuwangoda Bus Stand,Indigahamulla,Koralawella,Kottawa,Thudella,Thudella,Thudella,Thudella,Thudella,Katuneriya,Katuneriya,Thudella,Kadawala Tamil Vidyalaya
-11,122,Kirillawala,Egodauyana,Waagowwa Handiya,Kirillawala,Ballapana Handiya,Kirillawala,Kirillawala,Kirillawala,Mahara,Waagowwa Handiya,Kirillawala,Egodauyana,Makumbura,Dandugama,Dandugama,Dandugama,Dandugama,Dandugama,,,Dandugama,Ginigathhena Council
-12,128,Trackmo Handiya,Aluth Palama,Pamunuwa Handiya,Trackmo Handiya,Siyambalapitiya,Trackmo Handiya,Trackmo Handiya,Trackmo Handiya,Kadawatha,Pamunuwa Handiya,Trackmo Handiya,Aluth Palama,Homagama,Seeduwa,Seeduwa,Seeduwa,Seeduwa,Seeduwa,Wennappuwa,Wennappuwa,Seeduwa,Ginigathhena
-13,136,Mudungoda,Panadura,Dewalapola Handiya,Mudungoda,Batapolathanna,Mudungoda,Mudungoda,Mudungoda,Gonahena,Dewalapola Handiya,Mudungoda,Panadura,Panagoda Army Camp,Liyanagemulla,Liyanagemulla,Liyanagemulla,Liyanagemulla,Liyanagemulla,Dummalldeniya,Dummalldeniya,Liyanagemulla,Bagathuluwa Pansala
-14,143,Miriswatta,Nalluruwa Handiya,Walpitamulla,Miriswatta,Nelumdeniya,Miriswatta,Miriswatta,Miriswatta,Indigahamulla,Walpitamulla,Miriswatta,Nalluruwa Handiya,Godagama,18th Milepost,18th Milepost,18th Milepost,18th Milepost,18th Milepost,Nainamadama,Nainamadama,18th Milepost,Ambagamuwa Pansala
-15,149,Yakkala,Thalpititya,Naiwala Handiya,Yakkala,Gasnawawatta Handiya,Yakkala,Yakkala,Yakkala,Kirillawala,Naiwala Handiya,Yakkala,Thalpititya,Naduhena,20th Milepost,20th Milepost,20th Milepost,20th Milepost,20th Milepost,Waikkala,Waikkala,20th Milepost,Balanthota Bodhirukkharama Viharaya
-16,155,Aluthgama,Wadduwa,Wataddara,Aluthgama,Tholangamuwa,Aluthgama,Aluthgama,Aluthgama,Trackmo Handiya,Wataddara,Aluthgama,Wadduwa,Watareka 20th Milepost,Kuurana,Kuurana,Kuurana,Kuurana,Kuurana,Thoopuwa Handiya,Thoopuwa Handiya,Kuurana,Rambukpitiya Maha Vidyalaya
-17,163,Kalagedihena,Molligoda,Veyangoda Bus Stand,Kalagedihena,Mahena,Kalagedihena,Kalagedihena,Kalagedihena,Mudungoda,Veyangoda Bus Stand,Kalagedihena,Molligoda,Galagedra Bridge,Thelwatta,Thelwatta,Thelwatta,Thelwatta,Thelwatta,Kochchikade,Kochchikade,Thelwatta,3rd Junction 
-18,168,Thihariya,Pothupitiya,Udammita,Thihariya,Ambepussa,Thihariya,Thihariya,Thihariya,Miriswatta,Udammita,Thihariya,Pothupitiya,Meepe Handiya,Periyamulla,Periyamulla,Periyamulla,Periyamulla,Periyamulla,Daluwakotuwa,Daluwakotuwa,Periyamulla,Karahandungala Para
-19,176,Nittambuwa Sangabodi,Wadiyamankada,Nittambuwa,Nittambuwa Sangabodi,Warakapola,Nittambuwa Sangabodi,Nittambuwa Sangabodi,Nittambuwa Sangabodi,Yakkala,Nittambuwa,Nittambuwa Sangabodi,Wadiyamankada,Mawathagama,Dalupatha,Dalupatha,Dalupatha,Dalupatha,Dalupatha,Dalupatha,Dalupatha,Dalupatha,Nawalapitiya
-20,182,Nittambuwa,Nagashandiya,Kalalpitiya,Nittambuwa,Dummaldeniya,Nittambuwa,Nittambuwa,Nittambuwa,Aluthgama,Kalalpitiya,Nittambuwa,Nagashandiya,Waththekade,Daluwakotuwa,Daluwakotuwa,Daluwakotuwa,Daluwakotuwa,Daluwakotuwa,Periyamulla,Periyamulla,Daluwakotuwa,Nawalapitiya Railway Gate
-21,189,Kalalpitiya,Kalutara,Pasyala,Kalalpitiya,Danowita,Kalalpitiya,Kalalpitiya,Kalalpitiya,Kalagedihena,Pasyala,Kalalpitiya,Kalutara,Pahathgama,Kochchikade,Kochchikade,Kochchikade,Kochchikade,Kochchikade,Thelwatta,Thelwatta,Kochchikade,Pattunupittya Railway Gate
-22,195,Pasyala,Katukurunda Handiya,Kajugama,Pasyala,Wewaldeniya,Pasyala,Pasyala,Pasyala,Thihariya,Kajugama,Pasyala,Katukurunda Handiya,Kaluaggala,Thoopuwa Handiya,Thoopuwa Handiya,Thoopuwa Handiya,Thoopuwa Handiya,Thoopuwa Handiya,Kuurana,Kuurana,Thoopuwa Handiya,Pallegama Nandaramaya
-23,203,Kajugama,Malegoda,Radawadunna,Kajugama,Radawadunna,Kajugama,Kajugama,Kajugama,Nittambuwa Sangabodi,Radawadunna,Kajugama,Malegoda,Suduwella,Waikkala,Waikkala,Waikkala,Waikkala,Waikkala,20th Milepost,20th Milepost,Waikkala,Ulapane Kadevidiya
-24,209,Radawadunna,Payagala,Wewaldeniya,Radawadunna,Kajugama,Radawadunna,Radawadunna,Radawadunna,Nittambuwa,Wewaldeniya,Radawadunna,Payagala,Shaalawa,Nainamadama,Nainamadama,Nainamadama,Nainamadama,Nainamadama,18th Milepost,18th Milepost,Nainamadama,Thambiligalawatta Para
-25,216,Wewaldeniya,Maggona,Danowita,Wewaldeniya,Pasyala,Wewaldeniya,Wewaldeniya,Wewaldeniya,Kalalpitiya,Danowita,Wewaldeniya,Maggona,Kosgama,Dummalldeniya,Dummalldeniya,Dummalldeniya,Dummalldeniya,Dummalldeniya,Liyanagemulla,Liyanagemulla,Dummalldeniya,Lakshapilla
-26,222,Danowita,Polkotuwa,Dummaldeniya,Danowita,Kalalpitiya,Danowita,Danowita,Danowita,Pasyala,Dummaldeniya,Danowita,Polkotuwa,Aluth Ambalama,Wennappuwa,Wennappuwa,Wennappuwa,Wennappuwa,Wennappuwa,Seeduwa,Seeduwa,Wennappuwa,Ethgala Sri Bodhirajaramaya
-27,230,Dummaldeniya,Beruwala,Warakapola,Dummaldeniya,Nittambuwa,Dummaldeniya,Dummaldeniya,Dummaldeniya,Kajugama,Warakapola,Dummaldeniya,Beruwala,Hingurala,,,,,,Dandugama,Dandugama,,Mariyawattha Kadevidiya
-28,235,Warakapola,Hettimulla Handiya,Ambepussa,Warakapola,Nittambuwa Sangabodi,Warakapola,Warakapola,Warakapola,Radawadunna,Ambepussa,Warakapola,Hettimulla Handiya,Puwakpitiya,Katuneriya,Katuneriya,Katuneriya,Katuneriya,Katuneriya,Thudella,Thudella,Katuneriya,Gampola
-29,243,Ambepussa,Moragalla,Mahena,Ambepussa,Thihariya,Ambepussa,Ganithapura,Ganithapura,Wewaldeniya,Mahena,Ambepussa,Moragalla,Ukkwatta,Marawila Hospital,Marawila Hospital,Marawila Hospital,Marawila Hospital,Marawila Hospital,Ja-Ela Bus Stand,Ja-Ela Bus Stand,Marawila Hospital,Bothalapitiya
-30,251,Mahena,Aluthgama,Tholangamuwa,Mahena,Kalagedihena,Mahena,Thalliyadda,Thalliyadda,Danowita,Tholangamuwa,Mahena,Aluthgama,Awissawella,Marawila,Marawila,Marawila,Marawila,Marawila,Kapuwatta,Kapuwatta,Marawila,Galagediyaawa
-31,256,Tholangamuwa,Benthota,Gasnawawatta Handiya,Tholangamuwa,Aluthgama,Tholangamuwa,Koongoda Handiya,Dorawaka,Dummaldeniya,Gasnawawatta Handiya,Tholangamuwa,Benthota,Maadola,Thalwila,Thalwila,Thalwila,Thalwila,Thalwila,Kandana,Kandana,Thalwila,Waeligalla
-32,264,Gasnawawatta Handiya,Warahena,Nelumdeniya,Gasnawawatta Handiya,Yakkala,Gasnawawatta Handiya,Niyadurupola,Galamuna Wele Kade,Warakapola,Nelumdeniya,Gasnawawatta Handiya,Warahena,Dehigahapitiya,Mahawewa,Mahawewa,Mahawewa,Mahawewa,Mahawewa,Mahabage,Mahabage,Mahawewa,Gelioya
-33,270,Nelumdeniya,Induruwa,Batapolathanna ,Nelumdeniya,Miriswatta,Nelumdeniya,Hallawa,Kohombadeniya School Halt,Ambepussa,Batapolathanna ,Nelumdeniya,Induruwa,Gatahaththa,Madampe,Madampe,Madampe,Madampe,Madampe,Maabola,Maabola,Madampe,Koshinna
-34,277,Batapolathanna ,Maha Induruwa,Siyambalapitiya,Batapolathanna ,Mudungoda,Batapolathanna ,Galapitamada,Manikkadawara,Mahena,Siyambalapitiya,Batapolathanna ,Maha Induruwa,Minnana,Galahitiyawa Handiya,Galahitiyawa Handiya,Galahitiyawa Handiya,Galahitiyawa Handiya,Galahitiyawa Handiya,Wattala Postoffice,Wattala Postoffice,Galahitiyawa Handiya,Agunawala
-35,283,Siyambalapitiya,Duuwa Modara,Ballapana Handiya,Siyambalapitiya,Trackmo Handiya,Siyambalapitiya,,Imbulowita,Tholangamuwa,Ballapana Handiya,Siyambalapitiya,Duuwa Modara,Thoranakada,Pammbala,Pammbala,Pammbala,Pammbala,Pammbala,Peliyagoda,Peliyagoda,Pammbala,Peradeniya
-36,291,Ballapana Handiya,Kosgoda,Galigamuwa,Ballapana Handiya,Kirillawala,Ballapana Handiya,,,Gasnawawatta Handiya,Galigamuwa,Ballapana Handiya,Kosgoda,Mooragala Handiya,Kaakkapalliya,Kaakkapalliya,Kaakkapalliya,Kaakkapalliya,Kaakkapalliya,Kelanitissa,Kelanitissa,Kaakkapalliya,Gatambe
-37,297,Galigamuwa,Ahungalla,Ambanpitiya,Galigamuwa,Indigahamulla,Galigamuwa,,,Nelumdeniya,Ambanpitiya,Galigamuwa,Ahungalla,Eheliyagoda,Merawala,Merawala,Merawala,Merawala,Merawala,Dematagoda,Dematagoda,Merawala,Mulgampola
-38,304,Ambanpitiya,Pathegama,Ranwala Handiya,Ambanpitiya,Gonahena,Ambanpitiya,,,Batapolathanna ,Ranwala Handiya,Ambanpitiya,Pathegama,Maahingoda,Chilaw,Chilaw,Chilaw,Chilaw,Chilaw,Borella,Borella,Chilaw,Kandy
-39,310,Ranwala Handiya,Balapitiya,Kegalle,Ranwala Handiya,Kadawatha,Ranwala Handiya,,,Siyambalapitiya,Kegalle,Ranwala Handiya,Balapitiya,Thalaawitiya,Thembilla Moola,Thembilla Moola,Thembilla Moola,Thembilla Moola,Thembilla Moola,Rajagiriya,Narahenpita,Thembilla Moola,Mahaiyawa B.M.C Junction
-40,318,Kegalle,Balapitiya Hospital,,Kegalle,Mahara,Kegalle,,,Ballapana Handiya,Meepitiya,Kegalle,Balapitiya Hospital,Bodhi Maluwa,Deduruoya Bridge,Deduruoya Bridge,Deduruoya Bridge,Deduruoya Bridge,Deduruoya Bridge,Ethul Kotte Junction,,Deduruoya Bridge,Katugastota
-41,323,Meepitiya,Randoba,,Ashokaramaya,Kiribathgoda,Meepitiya,,,Galigamuwa,Karandupotha,Meepitiya,Randoba,Parakaduwa,Bangadeniya Handiya,Bangadeniya Handiya,Bangadeniya Handiya,Bangadeniya Handiya,Bangadeniya Handiya,Baththaramulla,,Bangadeniya Handiya,4th Lane 
-42,331,Karandupotha,Ambalangoda,,Paragammana Handiya,University of Kelaniya,Karandupotha,,,Ambanpitiya,Molagoda,Karandupotha,Ambalangoda,Thiriwaana 43th Milepost,Raajakadaluwa,Raajakadaluwa,Raajakadaluwa,Diganwewa,Diganwewa,Palawatta Junction,,Raajakadaluwa,Ambathenna 
-43,337,Molagoda,Madampe,,Maathura School Halt,Thorana Handiya,Molagoda,,,Ranwala Handiya,Mangalagama,Molagoda,Madampe,Pussella,Arachchikattuwa,Arachchikattuwa,Arachchikattuwa,Dematapitiya,Dematapitiya,Thalawathugoda,,Arachchikattuwa,Akurana Town
-44,344,Mangalagama,Akurala,,Hettimulla Handiya,4th Milepost,Mangalagama,,,Kegalle,Uthuwankanda,Mangalagama,Akurala,Millawitiya,Nalladarankattuwa,Nalladarankattuwa,Nalladarankattuwa,Nelumkuliya,Nelumkuliya,Polwatta Junction,,Nalladarankattuwa,Akurana 7th Milepost
-45,350,Uthuwankanda,Kahawa,,5th Milepost,Kelanitissa,Uthuwankanda,,,Meepitiya,Anwaram,Uthuwankanda,Kahawa,Higgashena,Anawilundawa,Anawilundawa,Anawilundawa,Kumara Kattuwa,Kumara Kattuwa,Pannipitiya,,Anawilundawa,8th Milepost
-46,358,Anwaram,Thelwatta,,Moronthota,Dematagoda,Anwaram,,,Karandupotha,Mawanella,Anwaram,Weragoda,Kuruwita Bus Halt,,,,Mandalaana,Mandalaana,Maharagama,,,Alawathugoda
-47,364,Mawanella,Sinigama,,Maaboopitiya Handiya,Borella,Mawanella,,,Molagoda,Beligammana,Mawanella,Mitiyaagoda,Paradise Handiya,Baththuluoya,Baththuluoya,Baththuluoya,Puliyankulam,Puliyankulam,,,Baththuluoya,Balakaduwa Junction 
-48,371,Beligammana,Hikkaduwa,,Undugoda Nikapitiya Handiya,Narahenpita,Kappagoda Handiya,,,Mangalagama,Higula,Beligammana,Nindaana,Batuhena School Halt,Tharawilluwa,Tharawilluwa,Tharawilluwa,Pallama,Pallama,,,Tharawilluwa,Warakamuuna
-49,377,Higula,Naarigama,,Thannimale,,Daaswatta Handiya,,,Uthuwankanda,Ganethanna,Higula,Batapola,Panukaraapitiya,Keeriyankalliya,Keeriyankalliya,Keeriyankalliya,Poththukulam,Poththukulam,,,Keeriyankalliya,Aelwala Junction
-50,385,Ganethanna,Kumarakanda Handiya,,,,Ussaapitiya,,,Anwaram,Pahala Kadugannawa,Ganethanna,Kahatapitiya,Farmgarden,Mundalama Hospital,Mundalama Hospital,Mundalama Hospital,Adammana,Adammana,,,Mundalama Hospital,Hospital Junction
-51,390,Pahala Kadugannawa,Dodanduwa,,,,Alupotha,,,Mawanella,Kadugannawa,Pahala Kadugannawa,Maanampitigama,Hospital Junction,Mundalama,Mundalama,Mundalama,Serukale,Serukale,,,Mundalama,Mathale
-52,398,Kadugannawa,Rathgama,,,,Polambeegoda,,,Beligammana,Henawala,Kadugannawa,Apegama Handiya,Rathnapura Bus Halt,Katanahenawatta,Katanahenawatta,Katanahenawatta,Siyambalagaswewa,Siyambalagaswewa,,,Katanahenawatta,Alu Viharaya
-53,404,Henawala,Bussa Army Camp,,,,Gawilipitiya,,,Higula,Pilimathalawa,Henawala,Waaniyawela Ambalama,Rathnapura Deport,Nawadankulama,Nawadankulama,Nawadankulama,Naagawila,Naagawila,,,Nawadankulama,Thotagamuwa
-54,411,Pilimathalawa,Ginthota,,,,Dippitiya,,,Ganethanna,Ambilmigama,Pilimathalawa,Duunawatta,Batugedara School Halt,Mangalaeliya,Mangalaeliya,Mangalaeliya,Andigama,Andigama,,,Mangalaeliya,Palapathwala
-55,419,Ambilmigama,Ginthota Deport,,,,Habalanthota Handiya,,,Pahala Kadugannawa,Kiribathkumbura,Ambilmigama,Baddegama,Thiriwana Katiya Handiya,Ambaweli Bridge,Ambaweli Bridge,Ambaweli Bridge,Garaayakgama,Garaayakgama,,,Ambaweli Bridge,Kawatayamuna
-56,425,Kiribathkumbura,Maha Modara,,,,Thalgaspitiya,,,Kadugannawa,Peradeniya,Kiribathkumbura,,Palwaadiya,10th Milepost,10th Milepost,10th Milepost,Mudalakkuliya,Mudalakkuliya,,,10th Milepost,Kawudulu Pelella
-57,432,Peradeniya,Galle,,,,Pethigammana 1st Milepost,,,Henawala,Gatambe,Peradeniya,,Pathulpaana School Halt,Madurankuliya,Madurankuliya,Madurankuliya,Sangattikulama,Sangattikulama,,,Madurankuliya,Mathale North
-58,438,Gatambe,Moodaela,,,,Hemmathagama,,,Pilimathalawa,Mulgampola,Gatambe,,Welimaluwa,Semmbatta Church,Semmbatta Church,Semmbatta Church,Uthpalawatta,Uthpalawatta,,,Semmbatta Church,Madawala Ulpatha
-59,446,Mulgampola,Dewata Handiya,,,,,,,Ambilmigama,Kandy,Mulgampola,,Lellupitiya Handiya,Kariikattiya,Kariikattiya,Kariikattiya,Kumaragama,Kumaragama,,,Kariikattiya,Koholanwala
-60,452,Kandy,Unawatuna,,,,,,,Kiribathkumbura,,Kandy,,Dippitigala,Naagawilluwa,Naagawilluwa,Naagawilluwa,Kothwalakanda,Kothwalakanda,,,Naagawilluwa,Udu Deniya
-61,457,,Dalawella,,,,,,,Peradeniya,,Swiss Hotel,,Paathakada,Paalawiya Handiya,Paalawiya Handiya,Paalawiya Handiya,Anamaduwa,Anamaduwa,,,Paalawiya Handiya,Nalanda
-62,463,,Talpe,,,,,,,Gatambe,,Buuwalikada,,Ganeegama,Thilladi,Thilladi,Thilladi,,Kudawewa Handiya,,,Thilladi,Dumgamwela
-63,471,,Habaraduwa,,,,,,,Mulgampola,,Thannekumbura,,Pelmadulla,Lung Hospital,Lung Hospital,Lung Hospital,,Periyakulama Temple Junction,,,Lung Hospital,Arangala
-64,476,,Koggala,,,,,,,Kandy,,Kundasale,,Batalanda,Puttalama Bus Stand,Puttalama Bus Stand,Puttalama Bus Stand,,Thalgaswewa,,,Puttalama Bus Stand,Naula Bus Stop
-65,484,,Kathaluwa,,,,,,,,,Gammudawa,,Panawenna,Seenkudi irappu,Seenkudi irappu,Seenkudi irappu,,Labugala Rajamaha Viharaya,,,Seenkudi irappu,Modella Primary School
-66,490,,Wallheengoda,,,,,,,,,Pallekale Army Camp,,Ketetanna,3rd Milepost,3rd Milepost,3rd Milepost,,Merungoda,,,3rd Milepost,Mahaweli Junction
-67,497,,Ahangama,,,,,,,,,Balagolla,,Kahawatta Bus Halt,4th Milepost,4th Milepost,4th Milepost,,Mahauswewa,,,4th Milepost,Lenadora Maliyadeva Viharaya
-68,503,,Gowiyapaana,,,,,,,,,Kengalla,,Yaainna Handiya,6th Milepost,6th Milepost,6th Milepost,,Welewewa,,,6th Milepost,Pannampitiya Vidyalaya
-69,511,,Midigama,,,,,,,,,Kalasirigama Handiya,,Ellagewatta Handiya,7th Milepost,7th Milepost,7th Milepost,,Mullegama,,,7th Milepost,40th Milepost
-70,517,,Kumbalgama,,,,,,,,,Menikhinna,,Ambalanwatta,8th Milepost,8th Milepost,8th Milepost,,Nawagaththegama,,,8th Milepost,Dhambulu Oya
-71,524,,Weligama,,,,,,,,,,,Maadampe Handiya,9th Milepost,9th Milepost,9th Milepost,,Kirimatiyaawa,,,9th Milepost,Kapuwattha
-72,530,,Palaana,,,,,,,,,,,Kawuduwaawa,10th Milepost,10th Milepost,10th Milepost,,Pulleewa,,,10th Milepost,Vihara Junction
-73,538,,Polathumodara,,,,,,,,,,,Allpitiya,12th Milepost,12th Milepost,12th Milepost,,Palugaswewa,,,12th Milepost,Dambulla
-74,543,,Mirissa,,,,,,,,,,,Malwatta,14th Milepost,14th Milepost,14th Milepost,,Nallachchiya Handiya,,,14th Milepost,Mirisgoniyawa
-75,549,,Thalaramba,,,,,,,,,,,Godakawela,15th Milepost,15th Milepost,15th Milepost,,Mahaa Naanneriya Handiya,,,15th Milepost,Buulagama
-76,557,,Kamburugamuwa,,,,,,,,,,,Kossnathota,17th Milepost,17th Milepost,17th Milepost,,Pairikkulama,,,17th Milepost,Kitulhitiyawa
-77,562,,Walgama,,,,,,,,,,,Balawinna Town,18th Milepost,18th Milepost,18th Milepost,,Ihala Naanneriya,,,18th Milepost,Bodhiya Junction
-78,570,,Nuupe,,,,,,,,,,,Karuwalagaha Turn,19th Milepost,19th Milepost,19th Milepost,,Thaambare,,,19th Milepost,Madatugama
-79,576,,Mathara,,,,,,,,,,,Pallebadda,21st Milepost,21st Milepost,21st Milepost,,Ihalagama Handiya,,,21st Milepost,Kotaagala
-80,584,,Thudawa,,,,,,,,,,,Giradura,Kala Oya,Kala Oya,Kala Oya,,Palukandeewa,,,Kala Oya,Kailapathana Junction
-81,589,,Naadaagala,,,,,,,,,,,Koswatiya Bo Tree,Puttalama Junction,Puttalama Junction,Puttalama Junction,,Galgamuwa,,,Puttalama Junction,Elagamuwa
-82,597,,Banndaththara,,,,,,,,,,,Dematagala,Thammannawa Handiya,Thammannawa Handiya,Thammannawa Handiya,,,,,Thammannawa Handiya,Korasgala
-83,603,,Thihagoda,,,,,,,,,,,Sankapaala,Pahala Maragahawewa,Pahala Maragahawewa,Pahala Maragahawewa,,,,,Pahala Maragahawewa,Kolombaawa
-84,610,,Paloolpitiya,,,,,,,,,,,Kolambagee Aara School Halt,Willpattuwa Junction,Willpattuwa Junction,Willpattuwa Junction,,,,,Willpattuwa Junction,Kekirawa
-85,616,,Akurugoda,,,,,,,,,,,Kolambagee Aara,Nekeththegama,Nekeththegama,Nekeththegama,,,,,Nekeththegama,Deport Junction
-86,624,,Mapalana,,,,,,,,,,,96 KM Post,Lindawewa,Lindawewa,Lindawewa,,,,,Lindawewa,Oolukarada
-87,629,,Kamburupitiya Police,,,,,,,,,,,98 KM Post,30th Junction,30th Junction,30th Junction,,,,,30th Junction,Miriswatta 2
-88,637,,Kamburupitiya Bus Stand,,,,,,,,,,,99 KM Post,Nochchiyagama,Nochchiyagama,Nochchiyagama,,,,,Nochchiyagama,Thonigala
-89,643,,,,,,,,,,,,,Galwanguwa,Mudithaagama,Mudithaagama,Mudithaagama,,,,,Mudithaagama,Maradankadawala
-90,650,,,,,,,,,,,,,Udagama Handiya,Sinharagama Handiya,Sinharagama Handiya,Sinharagama Handiya,,,,,Sinharagama Handiya,Ulankulama
-91,656,,,,,,,,,,,,,Embilipitiya Bus Stand,Othappuwa Handiya,Othappuwa Handiya,Othappuwa Handiya,,,,,Othappuwa Handiya,Periyakulama
-92,664,,,,,,,,,,,,,1st Post Bo Tree,Galayaya Handiya,Galayaya Handiya,Galayaya Handiya,,,,,Galayaya Handiya,Wanamal Uyana
-93,670,,,,,,,,,,,,,Moraketiya School Halt,38th Junction,38th Junction,38th Junction,,,,,38th Junction,Kandupagama Handiya
-94,677,,,,,,,,,,,,,3rd Milepost,Mahabulankulama,Mahabulankulama,Mahabulankulama,,,,,Mahabulankulama,Alisthaana
-95,683,,,,,,,,,,,,,Moraketiya Handiya,Ulukkulama,Ulukkulama,Ulukkulama,,,,,Ulukkulama,Thirappane
-96,691,,,,,,,,,,,,,Mahaanaaga School Halt,Korakahawewa,Korakahawewa,Korakahawewa,,,,,Korakahawewa,117KM Post
-97,696,,,,,,,,,,,,,Uurusitana Dam,Panndulagama Army Camp,Panndulagama Army Camp,Panndulagama Army Camp,,,,,Panndulagama Army Camp,Gdhanikkulama
-98,702,,,,,,,,,,,,,Hathporuwa Handiya,Kurunegala Junction,Kurunegala Junction,Kurunegala Junction,,,,,Kurunegala Junction,
-99,710,,,,,,,,,,,,,Weeriyagama,Anuradhapura Old Bus Stand,Anuradhapura Old Bus Stand,Anuradhapura Old Bus Stand,,,,,Anuradhapura Old Bus Stand,Galkulama 2
-100,716,,,,,,,,,,,,,10th Milepost,Anuradhapura New Bus Stand,Anuradhapura New Bus Stand,Anuradhapura New Bus Stand,,,,,Anuradhapura New Bus Stand,Siyambalagaswewa
-101,723,,,,,,,,,,,,,Galwewa Handiya,Yaapanaya Handiya,Yaapanaya Handiya,Yaapanaya Handiya,,,,,Yaapanaya Handiya,Wewaldigiliya Handiya
-102,729,,,,,,,,,,,,,Sooriyawewa,2nd Milepost,2nd Milepost,2nd Milepost,,,,,2nd Milepost,128KM Post
-103,737,,,,,,,,,,,,,,Saaliyapura Army Camp,Saaliyapura Army Camp,Saaliyapura Army Camp,,,,,Saaliyapura Army Camp,Thapowanaya
-104,742,,,,,,,,,,,,,,Maankadawala,Maankadawala,Maankadawala,,,,,Maankadawala,Mihintale
-105,750,,,,,,,,,,,,,,Parasangahawewa,Parasangahawewa,Parasangahawewa,,,,,Parasangahawewa,University of Rajarata Hostel
-106,756,,,,,,,,,,,,,,Gooneewa Handiya,Gooneewa Handiya,Gooneewa Handiya,,,,,Gooneewa Handiya,Doramadalawa Handiya
-107,763,,,,,,,,,,,,,,Rambawewa,Rambawewa,Rambawewa,,,,,Rambawewa,Yaya 2 Handiya
-108,769,,,,,,,,,,,,,,Rambewa,Rambewa,Rambewa,,,,,Rambewa,Walekade Handiya
-109,777,,,,,,,,,,,,,,Weelioya Handiya,Weelioya Handiya,Weelioya Handiya,,,,,Weelioya Handiya,Rambewa
-110,782,,,,,,,,,,,,,,Ikirigollewa,Ikirigollewa,Ikirigollewa,,,,,Ikirigollewa,Weelioya Handiya
-111,790,,,,,,,,,,,,,,Wahamalugollewa,Wahamalugollewa,Wahamalugollewa,,,,,Wahamalugollewa,Ikirigollewa
-112,796,,,,,,,,,,,,,,Sangilikanadarawa,Sangilikanadarawa,Sangilikanadarawa,,,,,Sangilikanadarawa,Wahamalugollewa
-113,804,,,,,,,,,,,,,,Medawachchiya,Medawachchiya,Medawachchiya,,,,,Medawachchiya,Sangilikanadarawa
-114,809,,,,,,,,,,,,,,Medawachchiya Bus Stand,Medawachchiya Bus Stand,Medawachchiya Bus Stand,,,,,Medawachchiya Bus Stand,Medawachchiya
-115,817,,,,,,,,,,,,,,,,Kebithigollewa Junction,,,,,Kebithigollewa Junction,Medawachchiya Bus Stand
-116,823,,,,,,,,,,,,,,Medawachchiya Railway Station,Medawachchiya Railway Station,Ihalathammannwa,,,,,Ihalathammannwa,Kebithigollewa Junction
-117,830,,,,,,,,,,,,,,Kadawathgama,Kadawathgama,3KM Post,,,,,3KM Post,Isinbessagala
-118,836,,,,,,,,,,,,,,7KM Post,7KM Post,Mahadiwulwewa,,,,,Mahadiwulwewa,Pillayar Kovil
-119,842,,,,,,,,,,,,,,Rambakulama ,Rambakulama ,Ateweeragollewa,,,,,Ateweeragollewa,Navy Camp
-120,849,,,,,,,,,,,,,,Yakawewa,Yakawewa,Kumbukgollewa,,,,,Kumbukgollewa,Poonewa
-121,855,,,,,,,,,,,,,,Peekupu Idam,Peekupu Idam,Athaakada,,,,,Athaakada,Siyambalagaswewa 2
-122,863,,,,,,,,,,,,,,Maankulam,Maankulam,14th Milepost,,,,,14th Milepost,Mahakumbukgollewa
-123,869,,,,,,,,,,,,,,Neriyakulam,Neriyakulam,Irallugama Handiya,,,,,Irallugama Handiya,Galkandegama 2
-124,876,,,,,,,,,,,,,,Thanthirimale Junction,Thanthirimale Junction,18th Milepost,,,,,18th Milepost,Galkundamadu Handiya
-125,882,,,,,,,,,,,,,,Mudaliyaarkulam,Mudaliyaarkulam,Goonamariyawa,,,,,Goonamariyawa,Irattiperiyamkulama
-126,890,,,,,,,,,,,,,,Muhaththaankulam,Muhaththaankulam,22nd Milepost,,,,,22nd Milepost,Muundruiyrippu
-127,895,,,,,,,,,,,,,,Cheddikulam,Cheddikulam,24th Milepost,,,,,24th Milepost,Vavuniya
-128,903,,,,,,,,,,,,,,27KM Post,27KM Post,Kebithigollewa,,,,,Kebithigollewa,Department of Agriculture
-129,909,,,,,,,,,,,,,,Kallarupalama,Kallarupalama,Ihalagama Handiya,,,,,Ihalagama Handiya,Thaandikulam
-130,916,,,,,,,,,,,,,,32KM Post,32KM Post,Galkandegama,,,,,Galkandegama,Kokeliya Gammana Para
-131,922,,,,,,,,,,,,,,Andiyapuliyankulam,Andiyapuliyankulam,Mahanatiyawa,,,,,Mahanatiyawa,Pudiya Sinnakulam Junction
-132,930,,,,,,,,,,,,,,Uuthadi,Uuthadi,Galawewa,,,,,Galawewa,Omanthai 187KM Post
-133,936,,,,,,,,,,,,,,Periyakaaddu,Periyakaaddu,Thiththagoonewa Handiya,,,,,Thiththagoonewa Handiya,Omanthai Co-Op
-134,943,,,,,,,,,,,,,,41KM Post,41KM Post,Thammannawa,,,,,Thammannawa,Omanthai Madya Maha Vidyalaya
-135,949,,,,,,,,,,,,,,Parayanaarankulam,Parayanaarankulam,,,,,,,Omanthai Checkpoint
-136,957,,,,,,,,,,,,,,Kunchikulam Junction,Kunchikulam Junction,Herath Halmillewa,,,,,Herath Halmillewa,194KM Post
-137,962,,,,,,,,,,,,,,Madu Road,Madu Road,Kahatagollewa,,,,,Kahatagollewa,Pandikeyidakulam
-138,970,,,,,,,,,,,,,,49KM Post,49KM Post,Galpiyuma,,,,,Galpiyuma,Puliyankulam Filling Station
-139,976,,,,,,,,,,,,,,Kaddei Adampei,Kaddei Adampei,,,,,,,Puliyankulam 200KM Post
-140,981,,,,,,,,,,,,,,Pannawadduwaan,Pannawadduwaan,Bellan kadawala,,,,,Bellan kadawala,Puliyankulam (Nadunkeerthi Rd)
-141,989,,,,,,,,,,,,,,,,,,,,,,Murandu Murippukulam
-142,995,,,,,,,,,,,,,,Galkadandakulam,Galkadandakulam,Aluth Halmillewa,,,,,Boralu Kanda,Parasankulam
-143,1003,,,,,,,,,,,,,,Murunkan,Murunkan,Ruwanpura,,,,,Padaviya Junction,Puduwuur Junction
-144,1008,,,,,,,,,,,,,,Semmantheew,Semmantheew,Sorowwa Junction,,,,,A Yaya,Kanagaraajakulam Kovil
-145,1016,,,,,,,,,,,,,,Agathikaali Junction,Agathikaali Junction,Mahasenpura,,,,,B Yaya,Kanagaraajakulam Madya Vidyalaya
-146,1022,,,,,,,,,,,,,,Uyintharaasankulam,Uyintharaasankulam,6th Milepost,,,,,Wellangas Junction,Kanagaraajakulam Health Center
-147,1029,,,,,,,,,,,,,,Parappannkandal,Parappannkandal,Old Medawachchiya ,,,,,,Periyakulam Tamil Madya Vidyalaya
-148,1035,,,,,,,,,,,,,,Uyilankulam,Uyilankulam,Eramaduwewa,,,,,Parakramapura,Mannakulam Junction
-149,1043,,,,,,,,,,,,,,Nochchikulam,Nochchikulam,10th Milepost,,,,,Maithree Mawatha,Telecommunication Tower
-150,1048,,,,,,,,,,,,,,Seerunawalkulam,Seerunawalkulam,,,,,,Thonigala,Kunchikulam 221KM Post
-151,1056,,,,,,,,,,,,,,Thiruketheeswaram,Thiruketheeswaram,Shaanthipura,,,,,Galkulama,Maankulam (Mullaitivu Rd)
-152,1062,,,,,,,,,,,,,,Mullapallawi,Mullapallawi,,,,,,Galkulama Junction,Maankulam Madya Vidyalaya
-153,1069,,,,,,,,,,,,,,Waankaalei Junction,Waankaalei Junction,,,,,,Palugas Junction,
-154,1075,,,,,,,,,,,,,,Thaladi Junction,Thaladi Junction,Pulmoddai Police,,,,,Sri Pura,Panikkaankulam Tamil Madya Vidyalaya
-155,1083,,,,,,,,,,,,,,83KM Post,83KM Post,Pulmoddai,,,,,,
-156,1089,,,,,,,,,,,,,,Mannar,Mannar,,,,,,,
-157,1096,,,,,,,,,,,,,,,Periyakaamam,,,,,,,
-158,1102,,,,,,,,,,,,,,,89KM Post,,,,,,,Palayamurugandi Kovil
-159,1110,,,,,,,,,,,,,,,Tharapuram Junction,,,,,,,
-160,1115,,,,,,,,,,,,,,,Erikkulampitiya Junction,,,,,,,Kokavil
-161,1123,,,,,,,,,,,,,,,Puthukkudiyiruppu,,,,,,,
-162,1129,,,,,,,,,,,,,,,Olaiththoduvai Junction,,,,,,,Murugandi Kovil
-163,1135,,,,,,,,,,,,,,,Karaisal,,,,,,,Faculty of Agriculture
-164,1142,,,,,,,,,,,,,,,Siruththoppu,,,,,,,Iranamadu Junction
-165,1148,,,,,,,,,,,,,,,Pesalai,,,,,,,Kilinochchi
-166,1156,,,,,,,,,,,,,,,Thullukudiyiruppu,,,,,,,Kilinochchi District Hospital
-167,1161,,,,,,,,,,,,,,,Nadukkuda Junction,,,,,,,Kilinochchi Water Tank
-168,1169,,,,,,,,,,,,,,,Keeliyan Kudiyiruppu,,,,,,,Karadipork Junction
-169,1175,,,,,,,,,,,,,,,Paridipannei,,,,,,,
-170,1182,,,,,,,,,,,,,,,Kaddukarankudiyiruppu,,,,,,,Paranthan
-171,1188,,,,,,,,,,,,,,,Talaimannar Village Junction,,,,,,,Umayaanpuram Grama Niladari Office
-172,1196,,,,,,,,,,,,,,,Talaimannar Pier,,,,,,,Umayaanpuram Kovil
-173,1201,,,,,,,,,,,,,,,,,,,,,,
-174,1209,,,,,,,,,,,,,,,,,,,,,,Elephant Pass Gamini Kularathne Memorial
-175,1215,,,,,,,,,,,,,,,,,,,,,,Elephant Pass Army Memorials
-176,1223,,,,,,,,,,,,,,,,,,,,,,
-177,1228,,,,,,,,,,,,,,,,,,,,,,Ayiyakachchi Tamil Madya Vidyalaya
-178,1236,,,,,,,,,,,,,,,,,,,,,,
-179,1242,,,,,,,,,,,,,,,,,,,,,,Pudukaadu Junction
-180,1249,,,,,,,,,,,,,,,,,,,,,,
-181,1255,,,,,,,,,,,,,,,,,,,,,,Palei
-182,1263,,,,,,,,,,,,,,,,,,,,,,Palei Marketplace
-183,1268,,,,,,,,,,,,,,,,,,,,,,
-184,1274,,,,,,,,,,,,,,,,,,,,,,Muhamalai
-185,1282,,,,,,,,,,,,,,,,,,,,,,Muhamalai Stop
-186,1288,,,,,,,,,,,,,,,,,,,,,,
-187,1295,,,,,,,,,,,,,,,,,,,,,,Aasai Pillei Eeththam
-188,1301,,,,,,,,,,,,,,,,,,,,,,Miriswill
-189,1309,,,,,,,,,,,,,,,,,,,,,,Kodikamam Town
-190,1314,,,,,,,,,,,,,,,,,,,,,,Kodikamam Murugan Kovil
-191,1322,,,,,,,,,,,,,,,,,,,,,,Puththur
-192,1328,,,,,,,,,,,,,,,,,,,,,,Arasadi Junction
-193,1335,,,,,,,,,,,,,,,,,,,,,,Chavakachcheri
-194,1341,,,,,,,,,,,,,,,,,,,,,,Chavakachcheri Aiiyar Rd
-195,1349,,,,,,,,,,,,,,,,,,,,,,Chavakachcheri Police Station
-196,1355,,,,,,,,,,,,,,,,,,,,,,Kaithady Bridge
-197,1362,,,,,,,,,,,,,,,,,,,,,,Kaithady
-198,1368,,,,,,,,,,,,,,,,,,,,,,Navathkuli
-199,1376,,,,,,,,,,,,,,,,,,,,,,Semmani
-200,1381,,,,,,,,,,,,,,,,,,,,,,Ariyalai Junction
-201,1389,,,,,,,,,,,,,,,,,,,,,,Ariyalai
-202,1395,,,,,,,,,,,,,,,,,,,,,,Jaffna Kachcheri
-203,1402,,,,,,,,,,,,,,,,,,,,,,Jaffna 
-204,1408,,,,,,,,,,,,,,,,,,,,,,
-205,1416,,,,,,,,,,,,,,,,,,,,,,
-206,1421,,,,,,,,,,,,,,,,,,,,,,
-207,1427,,,,,,,,,,,,,,,,,,,,,,
-208,1435,,,,,,,,,,,,,,,,,,,,,,
-209,1441,,,,,,,,,,,,,,,,,,,,,,
-210,1448,,,,,,,,,,,,,,,,,,,,,,
-211,1454,,,,,,,,,,,,,,,,,,,,,,
-212,1462,,,,,,,,,,,,,,,,,,,,,,
-213,1467,,,,,,,,,,,,,,,,,,,,,,
-214,1475,,,,,,,,,,,,,,,,,,,,,,
-215,1481,,,,,,,,,,,,,,,,,,,,,,
-216,1488,,,,,,,,,,,,,,,,,,,,,,
-217,1494,,,,,,,,,,,,,,,,,,,,,,
-218,1502,,,,,,,,,,,,,,,,,,,,,,
-219,1508,,,,,,,,,,,,,,,,,,,,,,
-220,1515,,,,,,,,,,,,,,,,,,,,,,
+ticketNo,price,line1,line2,line3,line4,line5,line6,line7,line8,line9,line10,line11,line12,line13,line14,line15,line16,line17,line18,line19,line18,line19,line20,line21,line22,,line23,line24,line25,
+0,0,Colombo Fort,Colombo Fort,Negombo,Colombo Fort,Mawanella,Colombo Fort,Colombo Fort,Colombo Fort,Nawam Mawatha,Negombo,Colombo Fort,Colombo Fort,Colombo Fort,Colombo Fort,Colombo Fort,Colombo Fort,Colombo Fort,Colombo Fort,Chilaw,Chilaw,Colombo Fort,Hatton,Colombo Fort,Colombo Fort,,Colombo Fort,Kandy,Colombo Fort,
+1,30,Maligawatta,Galleface,Thelwatta,Maligawatta,Anwaram,Maligawatta,Maligawatta,Maligawatta,Glass House,Thelwatta,Maligawatta,Galleface,Gamini Hall,Jethawanaramaya Temple,Jethawanaramaya Temple,Jethawanaramaya Temple,Jethawanaramaya Temple,Jethawanaramaya Temple,Merawala,Merawala,Jethawanaramaya Temple,Malliyapu Junction,Maligawatta,Maligawatta,,Maligawatta,Mahaiyawa B.M.C Junction,Maligawatta,
+2,38,Kelanitissa,Kollupitiya,Kuurana,Kelanitissa,Uthuwankanda,Kelanitissa,Kelanitissa,Kelanitissa,Race Course,Kuurana,Kelanitissa,Kollupitiya,Town Hall,Thotalanga,Thotalanga,Thotalanga,Thotalanga,Thotalanga,Kaakkapalliya,Kaakkapalliya,Thotalanga,Dimale,Kelanitissa,Kelanitissa,,Kelanitissa,Katugastota,Kelanitissa,
+3,50,4th Milepost,Bambalapitiya,20th Milepost,4th Milepost,Mangalagama,4th Milepost,4th Milepost,4th Milepost,Jaawatta,20th Milepost,4th Milepost,Bambalapitiya,Thimbirigasyaya,Peliyagoda,Peliyagoda,Peliyagoda,Peliyagoda,Peliyagoda,Pammbala,Pammbala,Peliyagoda,Woodland Bazaar,4th Milepost,4th Milepost,,4th Milepost,4th Lane ,4th Milepost,
+4,61,Thorana Handiya,Wellawatta,18th Milepost,Thorana Handiya,Molagoda,Thorana Handiya,Thorana Handiya,Thorana Handiya,Borella,18th Milepost,Thorana Handiya,Wellawatta,Kirulapone,Wattala Postoffice,Wattala Postoffice,Wattala Postoffice,Wattala Postoffice,Wattala Postoffice,Galahitiyawa Handiya,Galahitiyawa Handiya,Wattala Postoffice,Kuilwatte,Thorana Handiya,Thorana Handiya,,Thorana Handiya,Ambathenna ,Thorana Handiya,
+5,73,University of Kelaniya,Dehiwala,Awariwatta,University of Kelaniya,Karandupotha,University of Kelaniya,University of Kelaniya,University of Kelaniya,Dematagoda,Awariwatta,University of Kelaniya,Dehiwala,Nugegoda,Maabola,Maabola,Maabola,Maabola,Maabola,Madampe,Madampe,Maabola,Rossella,University of Kelaniya,University of Kelaniya,,University of Kelaniya,Akurana Town,University of Kelaniya,
+6,84,Kiribathgoda,Mt.Lavinia,Naikanda,Kiribathgoda,Meepitiya,Kiribathgoda,Kiribathgoda,Kiribathgoda,Kelanitissa,Naikanda,Kiribathgoda,Mt.Lavinia,Delkanda,Mahabage,Mahabage,Mahabage,Mahabage,Mahabage,Mahawewa,Mahawewa,Mahabage,Watawala Sinhala Vidyalaya,Kiribathgoda,Kiribathgoda,,Kiribathgoda,Akurana 7th Milepost,Kiribathgoda,
+7,96,Mahara,Rathmalana,Aadiambalama Handiya,Mahara,Kegalle,Mahara,Mahara,Mahara,4th Milepost,Aadiambalama Handiya,Mahara,Rathmalana,Nawinna,Kandana ,Kandana ,Kandana ,Kandana ,Kandana ,Thalwila,Thalwila,Kandana ,Watawala,Mahara,Mahara,,Mahara,8th Milepost,Mahara,
+8,99,Kadawatha,Katubedda,Peellawatta,Kadawatha,Ranwala Handiya,Kadawatha,Kadawatha,Kadawatha,Thorana Handiya,Peellawatta,Kadawatha,Katubedda,Maharagama,Kapuwatta,Kapuwatta,Kapuwatta,Kapuwatta,Kapuwatta,Marawila,Marawila,Kapuwatta,Karalina,Kadawatha,Kadawatha,,Kadawatha,Alawathugoda,Kadawatha,
+9,107,Gonahena,Moratuwa,Yatiyana,Gonahena,Ambanpitiya,Gonahena,Gonahena,Gonahena,University of Kelaniya,Yatiyana,Gonahena,Moratuwa,Pannipitiya,Ja-Ela Bus Stand,Ja-Ela Bus Stand,Ja-Ela Bus Stand,Ja-Ela Bus Stand,Ja-Ela Bus Stand,Marawila Hospital,Marawila Hospital,Ja-Ela Bus Stand,Diyagala Junction,Gonahena,Gonahena,,Gonahena,Balakaduwa Junction ,Gonahena,
+10,115,Indigahamulla,Koralawella,Minuwangoda Bus Stand,Indigahamulla,Galigamuwa,Indigahamulla,Indigahamulla,Indigahamulla,Kiribathgoda,Minuwangoda Bus Stand,Indigahamulla,Koralawella,Kottawa,Thudella,Thudella,Thudella,Thudella,Thudella,Katuneriya,Katuneriya,Thudella,Kadawala Tamil Vidyalaya,Indigahamulla,Indigahamulla,,Indigahamulla,Warakamuuna,Indigahamulla,
+11,122,Kirillawala,Egodauyana,Waagowwa Handiya,Kirillawala,Ballapana Handiya,Kirillawala,Kirillawala,Kirillawala,Mahara,Waagowwa Handiya,Kirillawala,Egodauyana,Makumbura,Dandugama,Dandugama,Dandugama,Dandugama,Dandugama,,,Dandugama,Ginigathhena Council,Kirillawala,Kirillawala,,Kirillawala,Aelwala Junction,Kirillawala,
+12,128,Trackmo Handiya,Aluth Palama,Pamunuwa Handiya,Trackmo Handiya,Siyambalapitiya,Trackmo Handiya,Trackmo Handiya,Trackmo Handiya,Kadawatha,Pamunuwa Handiya,Trackmo Handiya,Aluth Palama,Homagama,Seeduwa,Seeduwa,Seeduwa,Seeduwa,Seeduwa,Wennappuwa,Wennappuwa,Seeduwa,Ginigathhena,Trackmo Handiya,Trackmo Handiya,,Trackmo Handiya,Hospital Junction,Trackmo Handiya,
+13,136,Mudungoda,Panadura,Dewalapola Handiya,Mudungoda,Batapolathanna,Mudungoda,Mudungoda,Mudungoda,Gonahena,Dewalapola Handiya,Mudungoda,Panadura,Panagoda Army Camp,Liyanagemulla,Liyanagemulla,Liyanagemulla,Liyanagemulla,Liyanagemulla,Dummalldeniya,Dummalldeniya,Liyanagemulla,Bagathuluwa Pansala,Mudungoda,Mudungoda,,Mudungoda,Mathale,Mudungoda,
+14,143,Miriswatta,Nalluruwa Handiya,Walpitamulla,Miriswatta,Nelumdeniya,Miriswatta,Miriswatta,Miriswatta,Indigahamulla,Walpitamulla,Miriswatta,Nalluruwa Handiya,Godagama,18th Milepost,18th Milepost,18th Milepost,18th Milepost,18th Milepost,Nainamadama,Nainamadama,18th Milepost,Ambagamuwa Pansala,Miriswatta,Miriswatta,,Miriswatta,Alu Viharaya,Miriswatta,
+15,149,Yakkala,Thalpititya,Naiwala Handiya,Yakkala,Gasnawawatta Handiya,Yakkala,Yakkala,Yakkala,Kirillawala,Naiwala Handiya,Yakkala,Thalpititya,Naduhena,20th Milepost,20th Milepost,20th Milepost,20th Milepost,20th Milepost,Waikkala,Waikkala,20th Milepost,Balanthota Bodhirukkharama Viharaya,Yakkala,Yakkala,,Yakkala,Thotagamuwa,Yakkala,
+16,155,Aluthgama,Wadduwa,Wataddara,Aluthgama,Tholangamuwa,Aluthgama,Aluthgama,Aluthgama,Trackmo Handiya,Wataddara,Aluthgama,Wadduwa,Watareka 20th Milepost,Kuurana,Kuurana,Kuurana,Kuurana,Kuurana,Thoopuwa Handiya,Thoopuwa Handiya,Kuurana,Rambukpitiya Maha Vidyalaya,Aluthgama,Aluthgama,,Aluthgama,Palapathwala,Aluthgama,
+17,163,Kalagedihena,Molligoda,Veyangoda Bus Stand,Kalagedihena,Mahena,Kalagedihena,Kalagedihena,Kalagedihena,Mudungoda,Veyangoda Bus Stand,Kalagedihena,Molligoda,Galagedra Bridge,Thelwatta,Thelwatta,Thelwatta,Thelwatta,Thelwatta,Kochchikade,Kochchikade,Thelwatta,3rd Junction ,Kalagedihena,Kalagedihena,,Kalagedihena,Kawatayamuna,Kalagedihena,
+18,168,Thihariya,Pothupitiya,Udammita,Thihariya,Ambepussa,Thihariya,Thihariya,Thihariya,Miriswatta,Udammita,Thihariya,Pothupitiya,Meepe Handiya,Periyamulla,Periyamulla,Periyamulla,Periyamulla,Periyamulla,Daluwakotuwa,Daluwakotuwa,Periyamulla,Karahandungala Para,Thihariya,Thihariya,,Thihariya,Kawudulu Pelella,Thihariya,
+19,176,Nittambuwa Sangabodi,Wadiyamankada,Nittambuwa,Nittambuwa Sangabodi,Warakapola,Nittambuwa Sangabodi,Nittambuwa Sangabodi,Nittambuwa Sangabodi,Yakkala,Nittambuwa,Nittambuwa Sangabodi,Wadiyamankada,Mawathagama,Dalupatha,Dalupatha,Dalupatha,Dalupatha,Dalupatha,Dalupatha,Dalupatha,Dalupatha,Nawalapitiya,Nittambuwa Sangabodi,Nittambuwa Sangabodi,,Nittambuwa Sangabodi,Mathale North,Nittambuwa Sangabodi,
+20,182,Nittambuwa,Nagashandiya,Kalalpitiya,Nittambuwa,Dummaldeniya,Nittambuwa,Nittambuwa,Nittambuwa,Aluthgama,Kalalpitiya,Nittambuwa,Nagashandiya,Waththekade,Daluwakotuwa,Daluwakotuwa,Daluwakotuwa,Daluwakotuwa,Daluwakotuwa,Periyamulla,Periyamulla,Daluwakotuwa,Nawalapitiya Railway Gate,Nittambuwa,Nittambuwa,,Nittambuwa,Madawala Ulpatha,Nittambuwa,
+21,189,Kalalpitiya,Kalutara,Pasyala,Kalalpitiya,Danowita,Kalalpitiya,Kalalpitiya,Kalalpitiya,Kalagedihena,Pasyala,Kalalpitiya,Kalutara,Pahathgama,Kochchikade,Kochchikade,Kochchikade,Kochchikade,Kochchikade,Thelwatta,Thelwatta,Kochchikade,Pattunupittya Railway Gate,Kalalpitiya,Kalalpitiya,,Kalalpitiya,Koholanwala,Kalalpitiya,
+22,195,Pasyala,Katukurunda Handiya,Kajugama,Pasyala,Wewaldeniya,Pasyala,Pasyala,Pasyala,Thihariya,Kajugama,Pasyala,Katukurunda Handiya,Kaluaggala,Thoopuwa Handiya,Thoopuwa Handiya,Thoopuwa Handiya,Thoopuwa Handiya,Thoopuwa Handiya,Kuurana,Kuurana,Thoopuwa Handiya,Pallegama Nandaramaya,Pasyala,Pasyala,,Pasyala,Udu Deniya,Pasyala,
+23,203,Kajugama,Malegoda,Radawadunna,Kajugama,Radawadunna,Kajugama,Kajugama,Kajugama,Nittambuwa Sangabodi,Radawadunna,Kajugama,Malegoda,Suduwella,Waikkala,Waikkala,Waikkala,Waikkala,Waikkala,20th Milepost,20th Milepost,Waikkala,Ulapane Kadevidiya,Kajugama,Kajugama,,Kajugama,Nalanda,Kajugama,
+24,209,Radawadunna,Payagala,Wewaldeniya,Radawadunna,Kajugama,Radawadunna,Radawadunna,Radawadunna,Nittambuwa,Wewaldeniya,Radawadunna,Payagala,Shaalawa,Nainamadama,Nainamadama,Nainamadama,Nainamadama,Nainamadama,18th Milepost,18th Milepost,Nainamadama,Thambiligalawatta Para,Radawadunna,Radawadunna,,Radawadunna,Dumgamwela,Radawadunna,
+25,216,Wewaldeniya,Maggona,Danowita,Wewaldeniya,Pasyala,Wewaldeniya,Wewaldeniya,Wewaldeniya,Kalalpitiya,Danowita,Wewaldeniya,Maggona,Kosgama,Dummalldeniya,Dummalldeniya,Dummalldeniya,Dummalldeniya,Dummalldeniya,Liyanagemulla,Liyanagemulla,Dummalldeniya,Lakshapilla,Wewaldeniya,Wewaldeniya,,Wewaldeniya,Arangala,Wewaldeniya,
+26,222,Danowita,Polkotuwa,Dummaldeniya,Danowita,Kalalpitiya,Danowita,Danowita,Danowita,Pasyala,Dummaldeniya,Danowita,Polkotuwa,Aluth Ambalama,Wennappuwa,Wennappuwa,Wennappuwa,Wennappuwa,Wennappuwa,Seeduwa,Seeduwa,Wennappuwa,Ethgala Sri Bodhirajaramaya,Danowita,Danowita,,Danowita,Naula Bus Stop,Danowita,
+27,230,Dummaldeniya,Beruwala,Warakapola,Dummaldeniya,Nittambuwa,Dummaldeniya,Dummaldeniya,Dummaldeniya,Kajugama,Warakapola,Dummaldeniya,Beruwala,Hingurala,,,,,,Dandugama,Dandugama,,Mariyawattha Kadevidiya,Dummaldeniya,Dummaldeniya,,Dummaldeniya,Modella Primary School,Dummaldeniya,
+28,235,Warakapola,Hettimulla Handiya,Ambepussa,Warakapola,Nittambuwa Sangabodi,Warakapola,Warakapola,Warakapola,Radawadunna,Ambepussa,Warakapola,Hettimulla Handiya,Puwakpitiya,Katuneriya,Katuneriya,Katuneriya,Katuneriya,Katuneriya,Thudella,Thudella,Katuneriya,Gampola,Warakapola,Warakapola,,Warakapola,Mahaweli Junction,Warakapola,
+29,243,Ambepussa,Moragalla,Mahena,Ambepussa,Thihariya,Ambepussa,Ganithapura,Ganithapura,Wewaldeniya,Mahena,Ambepussa,Moragalla,Ukkwatta,Marawila Hospital,Marawila Hospital,Marawila Hospital,Marawila Hospital,Marawila Hospital,Ja-Ela Bus Stand,Ja-Ela Bus Stand,Marawila Hospital,Bothalapitiya,Ambepussa,Ambepussa,,Ambepussa,Lenadora Maliyadeva Viharaya,Ambepussa,
+30,251,Mahena,Aluthgama,Tholangamuwa,Mahena,Kalagedihena,Mahena,Thalliyadda,Thalliyadda,Danowita,Tholangamuwa,Mahena,Aluthgama,Awissawella,Marawila,Marawila,Marawila,Marawila,Marawila,Kapuwatta,Kapuwatta,Marawila,Galagediyaawa,Mahena,Mahena,,Mahena,Pannampitiya Vidyalaya,Naangalla,dvvfdv
+31,256,Tholangamuwa,Benthota,Gasnawawatta Handiya,Tholangamuwa,Aluthgama,Tholangamuwa,Koongoda Handiya,Dorawaka,Dummaldeniya,Gasnawawatta Handiya,Tholangamuwa,Benthota,Maadola,Thalwila,Thalwila,Thalwila,Thalwila,Thalwila,Kandana,Kandana,Thalwila,Waeligalla,Tholangamuwa,Tholangamuwa,,Tholangamuwa,40th Milepost,Thulhiriya,
+32,264,Gasnawawatta Handiya,Warahena,Nelumdeniya,Gasnawawatta Handiya,Yakkala,Gasnawawatta Handiya,Niyadurupola,Galamuna Wele Kade,Warakapola,Nelumdeniya,Gasnawawatta Handiya,Warahena,Dehigahapitiya,Mahawewa,Mahawewa,Mahawewa,Mahawewa,Mahawewa,Mahabage,Mahabage,Mahawewa,Gelioya,Gasnawawatta Handiya,Gasnawawatta Handiya,,Gasnawawatta Handiya,Dhambulu Oya,Alawwa Handiya,
+33,270,Nelumdeniya,Induruwa,Batapolathanna ,Nelumdeniya,Miriswatta,Nelumdeniya,Hallawa,Kohombadeniya School Halt,Ambepussa,Batapolathanna ,Nelumdeniya,Induruwa,Gatahaththa,Madampe,Madampe,Madampe,Madampe,Madampe,Maabola,Maabola,Madampe,Koshinna,Nelumdeniya,Nelumdeniya,,Nelumdeniya,Kapuwattha,Alawwa,
+34,277,Batapolathanna ,Maha Induruwa,Siyambalapitiya,Batapolathanna ,Mudungoda,Batapolathanna ,Galapitamada,Manikkadawara,Mahena,Siyambalapitiya,Batapolathanna ,Maha Induruwa,Minnana,Galahitiyawa Handiya,Galahitiyawa Handiya,Galahitiyawa Handiya,Galahitiyawa Handiya,Galahitiyawa Handiya,Wattala Postoffice,Wattala Postoffice,Galahitiyawa Handiya,Agunawala,Batapolathanna ,Batapolathanna ,,Batapolathanna ,Vihara Junction,Kapuwarala,
+35,283,Siyambalapitiya,Duuwa Modara,Ballapana Handiya,Siyambalapitiya,Trackmo Handiya,Siyambalapitiya,,Imbulowita,Tholangamuwa,Ballapana Handiya,Siyambalapitiya,Duuwa Modara,Thoranakada,Pammbala,Pammbala,Pammbala,Pammbala,Pammbala,Peliyagoda,Peliyagoda,Pammbala,Peradeniya,Siyambalapitiya,Siyambalapitiya,,Siyambalapitiya,Dambulla,Walakumbura,
+36,291,Ballapana Handiya,Kosgoda,Galigamuwa,Ballapana Handiya,Kirillawala,Ballapana Handiya,,,Gasnawawatta Handiya,Galigamuwa,Ballapana Handiya,Kosgoda,Mooragala Handiya,Kaakkapalliya,Kaakkapalliya,Kaakkapalliya,Kaakkapalliya,Kaakkapalliya,Kelanitissa,Kelanitissa,Kaakkapalliya,Gatambe,Ballapana Handiya,Ballapana Handiya,,Ballapana Handiya,Mirisgoniyawa,Morawalapitiya,
+37,297,Galigamuwa,Ahungalla,Ambanpitiya,Galigamuwa,Indigahamulla,Galigamuwa,,,Nelumdeniya,Ambanpitiya,Galigamuwa,Ahungalla,Eheliyagoda,Merawala,Merawala,Merawala,Merawala,Merawala,Dematagoda,Dematagoda,Merawala,Mulgampola,Galigamuwa,Galigamuwa,,Galigamuwa,Pelwahara Seed Farm,Polgahawela,
+38,304,Ambanpitiya,Pathegama,Ranwala Handiya,Ambanpitiya,Gonahena,Ambanpitiya,,,Batapolathanna ,Ranwala Handiya,Ambanpitiya,Pathegama,Maahingoda,Chilaw,Chilaw,Chilaw,Chilaw,Chilaw,Borella,Borella,Chilaw,Kandy,Ambanpitiya,Ambanpitiya,,Ambanpitiya,Pelwahara Junior School,Godawela,
+39,310,Ranwala Handiya,Balapitiya,Kegalle,Ranwala Handiya,Kadawatha,Ranwala Handiya,,,Siyambalapitiya,Kegalle,Ranwala Handiya,Balapitiya,Thalaawitiya,Thembilla Moola,Thembilla Moola,Thembilla Moola,Thembilla Moola,Thembilla Moola,Rajagiriya,Narahenpita,Thembilla Moola,Mahaiyawa B.M.C Junction,Ranwala Handiya,Ranwala Handiya,,Ranwala Handiya,Rotarigama,Kahawatte Ela,
+40,318,Kegalle,Balapitiya Hospital,,Kegalle,Mahara,Kegalle,,,Ballapana Handiya,Meepitiya,Kegalle,Balapitiya Hospital,Bodhi Maluwa,Deduruoya Bridge,Deduruoya Bridge,Deduruoya Bridge,Deduruoya Bridge,Deduruoya Bridge,Ethul Kotte Junction,,Deduruoya Bridge,Katugastota,Kegalle,Kegalle,,Kegalle,Inaamaluwa,Hondella,
+41,323,Meepitiya,Randoba,,Ashokaramaya,Kiribathgoda,Meepitiya,,,Galigamuwa,Karandupotha,Meepitiya,Randoba,Parakaduwa,Bangadeniya Handiya,Bangadeniya Handiya,Bangadeniya Handiya,Bangadeniya Handiya,Bangadeniya Handiya,Baththaramulla,,Bangadeniya Handiya,4th Lane ,Meepitiya,Meepitiya,,Meepitiya,,Bulugolla,
+42,331,Karandupotha,Ambalangoda,,Paragammana Handiya,University of Kelaniya,Karandupotha,,,Ambanpitiya,Molagoda,Karandupotha,Ambalangoda,Thiriwaana 43th Milepost,Raajakadaluwa,Raajakadaluwa,Raajakadaluwa,Diganwewa,Diganwewa,Palawatta Junction,,Raajakadaluwa,Ambathenna ,Karandupotha,Karandupotha,,Karandupotha,,Pothuhera,
+43,337,Molagoda,Madampe,,Maathura School Halt,Thorana Handiya,Molagoda,,,Ranwala Handiya,Mangalagama,Molagoda,Madampe,Pussella,Arachchikattuwa,Arachchikattuwa,Arachchikattuwa,Dematapitiya,Dematapitiya,Thalawathugoda,,Arachchikattuwa,Akurana Town,Molagoda,Molagoda,,Molagoda,Maagallena,Dambokka,
+44,344,Mangalagama,Akurala,,Hettimulla Handiya,4th Milepost,Mangalagama,,,Kegalle,Uthuwankanda,Mangalagama,Akurala,Millawitiya,Nalladarankattuwa,Nalladarankattuwa,Nalladarankattuwa,Nelumkuliya,Nelumkuliya,Polwatta Junction,,Nalladarankattuwa,Akurana 7th Milepost,Mangalagama,Mangalagama,,Mangalagama,Digampathana,Wanduragala,
+45,350,Uthuwankanda,Kahawa,,5th Milepost,Kelanitissa,Uthuwankanda,,,Meepitiya,Anwaram,Uthuwankanda,Kahawa,Higgashena,Anawilundawa,Anawilundawa,Anawilundawa,Kumara Kattuwa,Kumara Kattuwa,Pannipitiya,,Anawilundawa,8th Milepost,Uthuwankanda,Uthuwankanda,,Uthuwankanda,Awudangawa,Wahara,
+46,358,Anwaram,Thelwatta,,Moronthota,Dematagoda,Anwaram,,,Karandupotha,Mawanella,Anwaram,Weragoda,Kuruwita Bus Halt,,,,Mandalaana,Mandalaana,Maharagama,,,Alawathugoda,Anwaram,Anwaram,,Anwaram,Hiriwadunna School Halt,,
+47,364,Mawanella,Sinigama,,Maaboopitiya Handiya,Borella,Mawanella,,,Molagoda,Beligammana,Mawanella,Mitiyaagoda,Paradise Handiya,Baththuluoya,Baththuluoya,Baththuluoya,Puliyankulam,Puliyankulam,,,Baththuluoya,Balakaduwa Junction ,Mawanella,Mawanella,,Mawanella,Habarana,Kurunegala,
+48,371,Beligammana,Hikkaduwa,,Undugoda Nikapitiya Handiya,Narahenpita,Kappagoda Handiya,,,Mangalagama,Higula,Beligammana,Nindaana,Batuhena School Halt,Tharawilluwa,Tharawilluwa,Tharawilluwa,Pallama,Pallama,,,Tharawilluwa,Warakamuuna,Beligammana,Beligammana,,Beligammana,Sigiriya Junction,Polattapitiya,
+49,377,Higula,Naarigama,,Thannimale,,Daaswatta Handiya,,,Uthuwankanda,Ganethanna,Higula,Batapola,Panukaraapitiya,Keeriyankalliya,Keeriyankalliya,Keeriyankalliya,Poththukulam,Poththukulam,,,Keeriyankalliya,Aelwala Junction,Higula,Higula,,Higula,,,
+50,385,Ganethanna,Kumarakanda Handiya,,,,Ussaapitiya,,,Anwaram,Pahala Kadugannawa,Ganethanna,Kahatapitiya,Farmgarden,Mundalama Hospital,Mundalama Hospital,Mundalama Hospital,Adammana,Adammana,,,Mundalama Hospital,Hospital Junction,Ganethanna,Ganethanna,,Ganethanna,Moragaswewa,Yaggapitiya,
+51,390,Pahala Kadugannawa,Dodanduwa,,,,Alupotha,,,Mawanella,Kadugannawa,Pahala Kadugannawa,Maanampitigama,Hospital Junction,Mundalama,Mundalama,Mundalama,Serukale,Serukale,,,Mundalama,Mathale,Pahala Kadugannawa,Pahala Kadugannawa,,Pahala Kadugannawa,,Thorayaya,
+52,398,Kadugannawa,Rathgama,,,,Polambeegoda,,,Beligammana,Henawala,Kadugannawa,Apegama Handiya,Rathnapura Bus Halt,Katanahenawatta,Katanahenawatta,Katanahenawatta,Siyambalagaswewa,Siyambalagaswewa,,,Katanahenawatta,Alu Viharaya,Kadugannawa,Kadugannawa,,Kadugannawa,Ambagasawewa,Kiriwawula,
+53,404,Henawala,Bussa Army Camp,,,,Gawilipitiya,,,Higula,Pilimathalawa,Henawala,Waaniyawela Ambalama,Rathnapura Deport,Nawadankulama,Nawadankulama,Nawadankulama,Naagawila,Naagawila,,,Nawadankulama,Thotagamuwa,Henawala,Henawala,,Henawala,,Daeduru oya,
+54,411,Pilimathalawa,Ginthota,,,,Dippitiya,,,Ganethanna,Ambilmigama,Pilimathalawa,Duunawatta,Batugedara School Halt,Mangalaeliya,Mangalaeliya,Mangalaeliya,Andigama,Andigama,,,Mangalaeliya,Palapathwala,Pilimathalawa,Pilimathalawa,,Pilimathalawa,,Pannala,
+55,419,Ambilmigama,Ginthota Deport,,,,Habalanthota Handiya,,,Pahala Kadugannawa,Kiribathkumbura,Ambilmigama,Baddegama,Thiriwana Katiya Handiya,Ambaweli Bridge,Ambaweli Bridge,Ambaweli Bridge,Garaayakgama,Garaayakgama,,,Ambaweli Bridge,Kawatayamuna,Ambilmigama,Ambilmigama,,Ambilmigama,,Ihbbagamuwa,
+56,425,Kiribathkumbura,Maha Modara,,,,Thalgaspitiya,,,Kadugannawa,Peradeniya,Kiribathkumbura,,Palwaadiya,10th Milepost,10th Milepost,10th Milepost,Mudalakkuliya,Mudalakkuliya,,,10th Milepost,Kawudulu Pelella,Kiribathkumbura,Kiribathkumbura,,Kiribathkumbura,,Thalgodapitiya,
+57,432,Peradeniya,Galle,,,,Pethigammana 1st Milepost,,,Henawala,Gatambe,Peradeniya,,Pathulpaana School Halt,Madurankuliya,Madurankuliya,Madurankuliya,Sangattikulama,Sangattikulama,,,Madurankuliya,Mathale North,Peradeniya,Peradeniya,,Peradeniya,Batu Oya,Ipalawa,
+58,438,Gatambe,Moodaela,,,,Hemmathagama,,,Pilimathalawa,Mulgampola,Gatambe,,Welimaluwa,Semmbatta Church,Semmbatta Church,Semmbatta Church,Uthpalawatta,Uthpalawatta,,,Semmbatta Church,Madawala Ulpatha,Gatambe,Gatambe,,Gatambe,Minneriya Railway Station,Polgolla,
+59,446,Mulgampola,Dewata Handiya,,,,,,,Ambilmigama,Kandy,Mulgampola,,Lellupitiya Handiya,Kariikattiya,Kariikattiya,Kariikattiya,Kumaragama,Kumaragama,,,Kariikattiya,Koholanwala,Mulgampola,Mulgampola,,Mulgampola,,Gokarella,
+60,452,Kandy,Unawatuna,,,,,,,Kiribathkumbura,,Kandy,,Dippitigala,Naagawilluwa,Naagawilluwa,Naagawilluwa,Kothwalakanda,Kothwalakanda,,,Naagawilluwa,Udu Deniya,Kandy,Kandy,,Kandy,Minneriya,Ambanpola,
+61,457,,Dalawella,,,,,,,Peradeniya,,Swiss Hotel,,Paathakada,Paalawiya Handiya,Paalawiya Handiya,Paalawiya Handiya,Anamaduwa,Anamaduwa,,,Paalawiya Handiya,Nalanda,Swiss Hotel,Swiss Hotel,,Swiss Hotel,Rajaela Junction,Melsiripura,
+62,463,,Talpe,,,,,,,Gatambe,,Buuwalikada,,Ganeegama,Thilladi,Thilladi,Thilladi,,Kudawewa Handiya,,,Thilladi,Dumgamwela,Buuwalikada,Buuwalikada,,Buuwalikada,CP Pura,Diyatura,
+63,471,,Habaraduwa,,,,,,,Mulgampola,,Thannekumbura,,Pelmadulla,Lung Hospital,Lung Hospital,Lung Hospital,,Periyakulama Temple Junction,,,Lung Hospital,Arangala,Thannekumbura,Thannekumbura,,Thannekumbura,Giritale Tank,Na bata,
+64,476,,Koggala,,,,,,,Kandy,,Kundasale,,Batalanda,Puttalama Bus Stand,Puttalama Bus Stand,Puttalama Bus Stand,,Thalgaswewa,,,Puttalama Bus Stand,Naula Bus Stop,Kundasale,Kundasale,,Kundasale,Giritale Gam School,Kuuratiya,
+65,484,,Kathaluwa,,,,,,,,,Gammudawa,,Panawenna,Seenkudi irappu,Seenkudi irappu,Seenkudi irappu,,Labugala Rajamaha Viharaya,,,Seenkudi irappu,Modella Primary School,Gammudawa,Gammudawa,,Gammudawa,Jayanthipura Junction,Omaragolla Handiya,
+66,490,,Wallheengoda,,,,,,,,,Pallekale Army Camp,,Ketetanna,3rd Milepost,3rd Milepost,3rd Milepost,,Merungoda,,,3rd Milepost,Mahaweli Junction,Pallekale Army Camp,Pallekale Army Camp,,Pallekale Army Camp,Nikawewa,Beligamuwa,
+67,497,,Ahangama,,,,,,,,,Balagolla,,Kahawatta Bus Halt,4th Milepost,4th Milepost,4th Milepost,,Mahauswewa,,,4th Milepost,Lenadora Maliyadeva Viharaya,Balagolla,Balagolla,,Balagolla,Badiwewa,Kanaadana,
+68,503,,Gowiyapaana,,,,,,,,,Kengalla,,Yaainna Handiya,6th Milepost,6th Milepost,6th Milepost,,Welewewa,,,6th Milepost,Pannampitiya Vidyalaya,Kengala,Kengala,,Kengala,Gal Viharaya Junction,Galewela,
+69,511,,Midigama,,,,,,,,,Kalasirigama Handiya,,Ellagewatta Handiya,7th Milepost,7th Milepost,7th Milepost,,Mullegama,,,7th Milepost,40th Milepost,Digana,Digana,,Digana,Polonnaruwa,Puwakpitiya,
+70,517,,Kumbalgama,,,,,,,,,Menikhinna,,Ambalanwatta,8th Milepost,8th Milepost,8th Milepost,,Nawagaththegama,,,8th Milepost,Dhambulu Oya,Gonawala School Halt,Gonawala School Halt,,Gonawala School Halt,Kuruppu Junction,Kolombagolla,
+71,524,,Weligama,,,,,,,,,,,Maadampe Handiya,9th Milepost,9th Milepost,9th Milepost,,Kirimatiyaawa,,,9th Milepost,Kapuwattha,Gomagoda Bo Tree,Gomagoda Bo Tree,,Gomagoda Bo Tree,Palugasdamana,Yatigalapoththa,
+72,530,,Palaana,,,,,,,,,,,Kawuduwaawa,10th Milepost,10th Milepost,10th Milepost,,Pulleewa,,,10th Milepost,Vihara Junction,Oruthota Bo Tree,Oruthota Bo Tree,,Oruthota Bo Tree,Walekada,Pahala Wewa,
+73,538,,Polathumodara,,,,,,,,,,,Allpitiya,12th Milepost,12th Milepost,12th Milepost,,Palugaswewa,,,12th Milepost,Dambulla,Madapola,Madapola,,Madapola,Kumaraswamy Wadiya,Thalkiriyagama,
+74,543,,Mirissa,,,,,,,,,,,Malwatta,14th Milepost,14th Milepost,14th Milepost,,Nallachchiya Handiya,,,14th Milepost,Mirisgoniyawa,Theldeniya,Theldeniya,,Theldeniya,Wawetanna,Ihbbankatuwa,
+75,549,,Thalaramba,,,,,,,,,,,Godakawela,15th Milepost,15th Milepost,15th Milepost,,Mahaa Naanneriya Handiya,,,15th Milepost,Buulagama,Rambukkwella Rajamaha Viharaya,Rambukkwella Rajamaha Viharaya,,Rambukkwella Rajamaha Viharaya,Kumbukkanara,Rangiri Dambulu Cricket Ground,
+76,557,,Kamburugamuwa,,,,,,,,,,,Kossnathota,17th Milepost,17th Milepost,17th Milepost,,Pairikkulama,,,17th Milepost,Kitulhitiyawa,,,,,,Dambulla,
+77,562,,Walgama,,,,,,,,,,,Balawinna Town,18th Milepost,18th Milepost,18th Milepost,,Ihala Naanneriya,,,18th Milepost,Bodhiya Junction,Waagala Bo Tree,Waagala Bo Tree,,Waagala Bo Tree,Tambaala,Mirisgoniyawa,
+78,570,,Nuupe,,,,,,,,,,,Karuwalagaha Turn,19th Milepost,19th Milepost,19th Milepost,,Thaambare,,,19th Milepost,Madatugama,Waagala School Halt,Waagala School Halt,,Waagala School Halt,Talapath Aruwa,Pelwahara Seed Farm,
+79,576,,Mathara,,,,,,,,,,,Pallebadda,21st Milepost,21st Milepost,21st Milepost,,Ihalagama Handiya,,,21st Milepost,Kotaagala,Galmaloya Vishnu Dewalaya,Galmaloya Vishnu Dewalaya,,Galmaloya Vishnu Dewalaya,,Pelwahara Junior School,
+80,584,,Thudawa,,,,,,,,,,,Giradura,Kala Oya,Kala Oya,Kala Oya,,Palukandeewa,,,Kala Oya,Kailapathana Junction,Udathenna,Udathenna,,Udathenna,Daelpalama,Rotarigama,
+81,589,,Naadaagala,,,,,,,,,,,Koswatiya Bo Tree,Puttalama Junction,Puttalama Junction,Puttalama Junction,,Galgamuwa,,,Puttalama Junction,Elagamuwa,Mada Mahanuwara,Mada Mahanuwara,,Mada Mahanuwara,,Inaamaluwa,
+82,597,,Banndaththara,,,,,,,,,,,Dematagala,Thammannawa Handiya,Thammannawa Handiya,Thammannawa Handiya,,,,,Thammannawa Handiya,Korasgala,Waathalawa,Waathalawa,,Waathalawa,Kamburaana,,
+83,603,,Thihagoda,,,,,,,,,,,Sankapaala,Pahala Maragahawewa,Pahala Maragahawewa,Pahala Maragahawewa,,,,,Pahala Maragahawewa,Kolombaawa,Gaalekale,Gaalekale,,Gaalekale,Sungavila,,
+84,610,,Paloolpitiya,,,,,,,,,,,Kolambagee Aara School Halt,Willpattuwa Junction,Willpattuwa Junction,Willpattuwa Junction,,,,,Willpattuwa Junction,Kekirawa,Hunnassgiriya,Hunnassgiriya,,Hunnassgiriya,Jayasingha Buddhist Center,Maagallena,
+85,616,,Akurugoda,,,,,,,,,,,Kolambagee Aara,Nekeththegama,Nekeththegama,Nekeththegama,,,,,Nekeththegama,Deport Junction,Kewulagama Handiya,Kewulagama Handiya,,Kewulagama Handiya,,Digampathana,
+86,624,,Mapalana,,,,,,,,,,,96 KM Post,Lindawewa,Lindawewa,Lindawewa,,,,,Lindawewa,Oolukarada,Enamalpotha Handiya,Enamalpotha Handiya,,Enamalpotha Handiya,,Awudangawa,
+87,629,,Kamburupitiya Police,,,,,,,,,,,98 KM Post,30th Junction,30th Junction,30th Junction,,,,,30th Junction,Miriswatta 2,Kahatagollewa Bridge,Kahatagollewa Bridge,,Kahatagollewa Bridge,,Hiriwadunna School Halt,
+88,637,,Kamburupitiya Bus Stand,,,,,,,,,,,99 KM Post,Nochchiyagama,Nochchiyagama,Nochchiyagama,,,,,Nochchiyagama,Thonigala,Udu Dumbara,Udu Dumbara,,Udu Dumbara,,Habarana,
+89,643,,,,,,,,,,,,,Galwanguwa,Mudithaagama,Mudithaagama,Mudithaagama,,,,,Mudithaagama,Maradankadawala,,,,,,Sigiriya Junction,
+90,650,,,,,,,,,,,,,Udagama Handiya,Sinharagama Handiya,Sinharagama Handiya,Sinharagama Handiya,,,,,Sinharagama Handiya,Ulankulama,Kowilmada Tobacco Warehouse,Kowilmada Tobacco Warehouse,,Kowilmada Tobacco Warehouse,Somawathiya,,
+91,656,,,,,,,,,,,,,Embilipitiya Bus Stand,Othappuwa Handiya,Othappuwa Handiya,Othappuwa Handiya,,,,,Othappuwa Handiya,Periyakulama,,,,,,Moragaswewa,
+92,664,,,,,,,,,,,,,1st Post Bo Tree,Galayaya Handiya,Galayaya Handiya,Galayaya Handiya,,,,,Galayaya Handiya,Wanamal Uyana,,,,,,,
+93,670,,,,,,,,,,,,,Moraketiya School Halt,38th Junction,38th Junction,38th Junction,,,,,38th Junction,Kandupagama Handiya,Thammatiyana,Thammatiyana,,Thammatiyana,,Ambagasawewa,
+94,677,,,,,,,,,,,,,3rd Milepost,Mahabulankulama,Mahabulankulama,Mahabulankulama,,,,,Mahabulankulama,Alisthaana,,,,,,,
+95,683,,,,,,,,,,,,,Moraketiya Handiya,Ulukkulama,Ulukkulama,Ulukkulama,,,,,Ulukkulama,Thirappane,Pooppitiya Handiya,Pooppitiya Handiya,,Pooppitiya Handiya,,,
+96,691,,,,,,,,,,,,,Mahaanaaga School Halt,Korakahawewa,Korakahawewa,Korakahawewa,,,,,Korakahawewa,117KM Post,,,,,,,
+97,696,,,,,,,,,,,,,Uurusitana Dam,Panndulagama Army Camp,Panndulagama Army Camp,Panndulagama Army Camp,,,,,Panndulagama Army Camp,Gdhanikkulama,,,,,,,
+98,702,,,,,,,,,,,,,Hathporuwa Handiya,Kurunegala Junction,Kurunegala Junction,Kurunegala Junction,,,,,Kurunegala Junction,,,,,,,Batu Oya,
+99,710,,,,,,,,,,,,,Weeriyagama,Anuradhapura Old Bus Stand,Anuradhapura Old Bus Stand,Anuradhapura Old Bus Stand,,,,,Anuradhapura Old Bus Stand,Galkulama 2,Gurulupotha School Halt,Gurulupotha School Halt,,Gurulupotha School Halt,,Minneriya Railway Station,
+100,716,,,,,,,,,,,,,10th Milepost,Anuradhapura New Bus Stand,Anuradhapura New Bus Stand,Anuradhapura New Bus Stand,,,,,Anuradhapura New Bus Stand,Siyambalagaswewa,Ranthalla Waterfall Rd,Ranthalla Waterfall Rd,,Ranthalla Waterfall Rd,,,
+101,723,,,,,,,,,,,,,Galwewa Handiya,Yaapanaya Handiya,Yaapanaya Handiya,Yaapanaya Handiya,,,,,Yaapanaya Handiya,Wewaldigiliya Handiya,65/5 Bridge,65/5 Bridge,,65/5 Bridge,,Minneriya,
+102,729,,,,,,,,,,,,,Sooriyawewa,2nd Milepost,2nd Milepost,2nd Milepost,,,,,2nd Milepost,128KM Post,Ududaawa,Ududaawa,,Ududaawa,,Rajaela Junction,
+103,737,,,,,,,,,,,,,,Saaliyapura Army Camp,Saaliyapura Army Camp,Saaliyapura Army Camp,,,,,Saaliyapura Army Camp,Thapowanaya,Hasalaka,Hasalaka,,Hasalaka,,CP Pura,
+104,742,,,,,,,,,,,,,,Maankadawala,Maankadawala,Maankadawala,,,,,Maankadawala,Mihintale,Pallewatta School Halt,Pallewatta School Halt,,Pallewatta School Halt,,Giritale Tank,
+105,750,,,,,,,,,,,,,,Parasangahawewa,Parasangahawewa,Parasangahawewa,,,,,Parasangahawewa,University of Rajarata Hostel,Paalam Handiya,Paalam Handiya,,Paalam Handiya,,Giritale Gam School,
+106,756,,,,,,,,,,,,,,Gooneewa Handiya,Gooneewa Handiya,Gooneewa Handiya,,,,,Gooneewa Handiya,Doramadalawa Handiya,Mahiyanganaya,Mahiyanganaya,,Mahiyanganaya,,Jayanthipura Junction,
+107,763,,,,,,,,,,,,,,Rambawewa,Rambawewa,Rambawewa,,,,,Rambawewa,Yaya 2 Handiya,Mahiyanganaya Hospital,Ashokaramaya,,Mahiyanganaya Hospital,,Nikawewa,
+108,769,,,,,,,,,,,,,,Rambewa,Rambewa,Rambewa,,,,,Rambewa,Walekade Handiya,Dambarawa School Halt,2 Handiya Bridge,,Dambarawa School Halt,,Badiwewa,
+109,777,,,,,,,,,,,,,,Weelioya Handiya,Weelioya Handiya,Weelioya Handiya,,,,,Weelioya Handiya,Rambewa,,Thalangamuwa Handiya,,,,Gal Viharaya Junction,
+110,782,,,,,,,,,,,,,,Ikirigollewa,Ikirigollewa,Ikirigollewa,,,,,Ikirigollewa,Weelioya Handiya,,Nidangala,,,,Polonnaruwa,
+111,790,,,,,,,,,,,,,,Wahamalugollewa,Wahamalugollewa,Wahamalugollewa,,,,,Wahamalugollewa,Ikirigollewa,Maapankada,Aluththarama,,Maapankada,,,
+112,796,,,,,,,,,,,,,,Sangilikanadarawa,Sangilikanadarawa,Sangilikanadarawa,,,,,Sangilikanadarawa,Wahamalugollewa,,Bathalayaya Handiya,,,,,
+113,804,,,,,,,,,,,,,,Medawachchiya,Medawachchiya,Medawachchiya,,,,,Medawachchiya,Sangilikanadarawa,Mada Yaya,Giraalagolla,,Mada Yaya,,,
+114,809,,,,,,,,,,,,,,Medawachchiya Bus Stand,Medawachchiya Bus Stand,Medawachchiya Bus Stand,,,,,Medawachchiya Bus Stand,Medawachchiya,,Mallaththawa School Halt,,,,,
+115,817,,,,,,,,,,,,,,,,Kebithigollewa Junction,,,,,Kebithigollewa Junction,Medawachchiya Bus Stand,Aanda Ulpatha,Girandurukotte,,Aanda Ulpatha,,,
+116,823,,,,,,,,,,,,,,Medawachchiya Railway Station,Medawachchiya Railway Station,Ihalathammannwa,,,,,Ihalathammannwa,Kebithigollewa Junction,,Hobariyawa,,Bubula,,,
+117,830,,,,,,,,,,,,,,Kadawathgama,Kadawathgama,3KM Post,,,,,3KM Post,Isinbessagala,Uuraniya Hospital,Belaganwewa Handiya,,Kuruwitanna School Halt,,,
+118,836,,,,,,,,,,,,,,7KM Post,7KM Post,Mahadiwulwewa,,,,,Mahadiwulwewa,Pillayar Kovil,Ridimaliyadda,Theldeniyaya Handiya,,Dambagahapitiya,,,
+119,842,,,,,,,,,,,,,,Rambakulama ,Rambakulama ,Ateweeragollewa,,,,,Ateweeragollewa,Navy Camp,Kandegama,Diyawiddagama Handiya,,,,,
+120,849,,,,,,,,,,,,,,Yakawewa,Yakawewa,Kumbukgollewa,,,,,Kumbukgollewa,Poonewa,,Nawa Madagama,,Puunage River,,,
+121,855,,,,,,,,,,,,,,Peekupu Idam,Peekupu Idam,Athaakada,,,,,Athaakada,Siyambalagaswewa 2,Haapola Handiya,Kudagama,,Elapara Handiya,,,
+122,863,,,,,,,,,,,,,,Maankulam,Maankulam,14th Milepost,,,,,14th Milepost,Mahakumbukgollewa,Malllahawa Handiya,Kudaoya Bridge,,Buddankotte,,,
+123,869,,,,,,,,,,,,,,Neriyakulam,Neriyakulam,Irallugama Handiya,,,,,Irallugama Handiya,Galkandegama 2,,,,,,,
+124,876,,,,,,,,,,,,,,Thanthirimale Junction,Thanthirimale Junction,18th Milepost,,,,,18th Milepost,Galkundamadu Handiya,Waagama,Sandunpura Army Camp,,Karamatiya Ayurweda Hospital,,,
+125,882,,,,,,,,,,,,,,Mudaliyaarkulam,Mudaliyaarkulam,Goonamariyawa,,,,,Goonamariyawa,Irattiperiyamkulama,,Damunnaruwa Bridge,,Karamatiya,,,
+126,890,,,,,,,,,,,,,,Muhaththaankulam,Muhaththaankulam,22nd Milepost,,,,,22nd Milepost,Muundruiyrippu,Bibila,Muwagammana Bridge,,Balagolla School Halt,,,
+127,895,,,,,,,,,,,,,,Cheddikulam,Cheddikulam,24th Milepost,,,,,24th Milepost,Vavuniya,,Dehiattakandiya,,Balagolla ,,,
+128,903,,,,,,,,,,,,,,27KM Post,27KM Post,Kebithigollewa,,,,,Kebithigollewa,Department of Agriculture,Naagala Temple,,,Aarawa Handiya,,,
+129,909,,,,,,,,,,,,,,Kallarupalama,Kallarupalama,Ihalagama Handiya,,,,,Ihalagama Handiya,Thaandikulam,Buudolu Oya,,,Meegahakiula,,,
+130,916,,,,,,,,,,,,,,32KM Post,32KM Post,Galkandegama,,,,,Galkandegama,Kokeliya Gammana Para,Pokunnehewa Temple,,,,,,
+131,922,,,,,,,,,,,,,,Andiyapuliyankulam,Andiyapuliyankulam,Mahanatiyawa,,,,,Mahanatiyawa,Pudiya Sinnakulam Junction,Wila Athigoda Temple,,,,,,
+132,930,,,,,,,,,,,,,,Uuthadi,Uuthadi,Galawewa,,,,,Galawewa,Omanthai 187KM Post,Pitakumbura,,,,,,
+133,936,,,,,,,,,,,,,,Periyakaaddu,Periyakaaddu,Thiththagoonewa Handiya,,,,,Thiththagoonewa Handiya,Omanthai Co-Op,,,,,,,
+134,943,,,,,,,,,,,,,,41KM Post,41KM Post,Thammannawa,,,,,Thammannawa,Omanthai Madya Maha Vidyalaya,,,,,,,
+135,949,,,,,,,,,,,,,,Parayanaarankulam,Parayanaarankulam,,,,,,,Omanthai Checkpoint,Serawa School Halt,,,,,,
+136,957,,,,,,,,,,,,,,Kunchikulam Junction,Kunchikulam Junction,Herath Halmillewa,,,,,Herath Halmillewa,194KM Post,Peerana Handiya,,,,,,
+137,962,,,,,,,,,,,,,,Madu Road,Madu Road,Kahatagollewa,,,,,Kahatagollewa,Pandikeyidakulam,,,,,,,
+138,970,,,,,,,,,,,,,,49KM Post,49KM Post,Galpiyuma,,,,,Galpiyuma,Puliyankulam Filling Station,Gamanawa Temple,,,,,,
+139,976,,,,,,,,,,,,,,Kaddei Adampei,Kaddei Adampei,,,,,,,Puliyankulam 200KM Post,Bulupitiya,,,,,,
+140,981,,,,,,,,,,,,,,Pannawadduwaan,Pannawadduwaan,Bellan kadawala,,,,,Bellan kadawala,Puliyankulam (Nadunkeerthi Rd),Karaabugala,,,,,,
+141,989,,,,,,,,,,,,,,,,,,,,,,Murandu Murippukulam,Maakada Kanda,,,,,,
+142,995,,,,,,,,,,,,,,Galkadandakulam,Galkadandakulam,Aluth Halmillewa,,,,,Boralu Kanda,Parasankulam,,,,,,,
+143,1003,,,,,,,,,,,,,,Murunkan,Murunkan,Ruwanpura,,,,,Padaviya Junction,Puduwuur Junction,Ranthurugala Temple,,,,,,
+144,1008,,,,,,,,,,,,,,Semmantheew,Semmantheew,Sorowwa Junction,,,,,A Yaya,Kanagaraajakulam Kovil,Ranthurugala Clinic,,,,,,
+145,1016,,,,,,,,,,,,,,Agathikaali Junction,Agathikaali Junction,Mahasenpura,,,,,B Yaya,Kanagaraajakulam Madya Vidyalaya,Galgamuwa Temple,,,,,,
+146,1022,,,,,,,,,,,,,,Uyintharaasankulam,Uyintharaasankulam,6th Milepost,,,,,Wellangas Junction,Kanagaraajakulam Health Center,Mullegama Purana Viharaya,,,,,,
+147,1029,,,,,,,,,,,,,,Parappannkandal,Parappannkandal,Old Medawachchiya ,,,,,,Periyakulam Tamil Madya Vidyalaya,Rathmalagaha Ella,,,,,,
+148,1035,,,,,,,,,,,,,,Uyilankulam,Uyilankulam,Eramaduwewa,,,,,Parakramapura,Mannakulam Junction,Mullegama,,,,,,
+149,1043,,,,,,,,,,,,,,Nochchikulam,Nochchikulam,10th Milepost,,,,,Maithree Mawatha,Telecommunication Tower,,,,,,,
+150,1048,,,,,,,,,,,,,,Seerunawalkulam,Seerunawalkulam,,,,,,Thonigala,Kunchikulam 221KM Post,,,,,,,
+151,1056,,,,,,,,,,,,,,Thiruketheeswaram,Thiruketheeswaram,Shaanthipura,,,,,Galkulama,Maankulam (Mullaitivu Rd),,,,,,,
+152,1062,,,,,,,,,,,,,,Mullapallawi,Mullapallawi,,,,,,Galkulama Junction,Maankulam Madya Vidyalaya,,,,,,,
+153,1069,,,,,,,,,,,,,,Waankaalei Junction,Waankaalei Junction,,,,,,Palugas Junction,,,,,,,,
+154,1075,,,,,,,,,,,,,,Thaladi Junction,Thaladi Junction,Pulmoddai Police,,,,,Sri Pura,Panikkaankulam Tamil Madya Vidyalaya,Pitawaana,,,,,,
+155,1083,,,,,,,,,,,,,,83KM Post,83KM Post,Pulmoddai,,,,,,,Namal Oya,,,,,,
+156,1089,,,,,,,,,,,,,,Mannar,Mannar,,,,,,,,Namal Oya Junction,,,,,,
+157,1096,,,,,,,,,,,,,,,Periyakaamam,,,,,,,,Namalthalawa,,,,,,
+158,1102,,,,,,,,,,,,,,,89KM Post,,,,,,,Palayamurugandi Kovil,Galwanguwa,,,,,,
+159,1110,,,,,,,,,,,,,,,Tharapuram Junction,,,,,,,,,,,,,,
+160,1115,,,,,,,,,,,,,,,Erikkulampitiya Junction,,,,,,,Kokavil,Pollwatta Handiya,,,,,,
+161,1123,,,,,,,,,,,,,,,Puthukkudiyiruppu,,,,,,,,Cattle Farm,,,,,,
+162,1129,,,,,,,,,,,,,,,Olaiththoduvai Junction,,,,,,,Murugandi Kovil,Wawinna,,,,,,
+163,1135,,,,,,,,,,,,,,,Karaisal,,,,,,,Faculty of Agriculture,Paragahakale,,,,,,
+164,1142,,,,,,,,,,,,,,,Siruththoppu,,,,,,,Iranamadu Junction,Boogas Handiya,,,,,,
+165,1148,,,,,,,,,,,,,,,Pesalai,,,,,,,Kilinochchi,Kondawattawaan Camp,,,,,,
+166,1156,,,,,,,,,,,,,,,Thullukudiyiruppu,,,,,,,Kilinochchi District Hospital,Ampara,,,,,,
+167,1161,,,,,,,,,,,,,,,Nadukkuda Junction,,,,,,,Kilinochchi Water Tank,,,,,,,
+168,1169,,,,,,,,,,,,,,,Keeliyan Kudiyiruppu,,,,,,,Karadipork Junction,Timber Cooperation,,,,,,
+169,1175,,,,,,,,,,,,,,,Paridipannei,,,,,,,,Ampara Bus Stand,,,,,,
+170,1182,,,,,,,,,,,,,,,Kaddukarankudiyiruppu,,,,,,,Paranthan,,,,,,,
+171,1188,,,,,,,,,,,,,,,Talaimannar Village Junction,,,,,,,Umayaanpuram Grama Niladari Office,,,,,,,
+172,1196,,,,,,,,,,,,,,,Talaimannar Pier,,,,,,,Umayaanpuram Kovil,,,,,,,
+173,1201,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+174,1209,,,,,,,,,,,,,,,,,,,,,,Elephant Pass Gamini Kularathne Memorial,,,,,,,
+175,1215,,,,,,,,,,,,,,,,,,,,,,Elephant Pass Army Memorials,,,,,,,
+176,1223,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+177,1228,,,,,,,,,,,,,,,,,,,,,,Ayiyakachchi Tamil Madya Vidyalaya,,,,,,,
+178,1236,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+179,1242,,,,,,,,,,,,,,,,,,,,,,Pudukaadu Junction,,,,,,,
+180,1249,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+181,1255,,,,,,,,,,,,,,,,,,,,,,Palei,,,,,,,
+182,1263,,,,,,,,,,,,,,,,,,,,,,Palei Marketplace,,,,,,,
+183,1268,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+184,1274,,,,,,,,,,,,,,,,,,,,,,Muhamalai,,,,,,,
+185,1282,,,,,,,,,,,,,,,,,,,,,,Muhamalai Stop,,,,,,,
+186,1288,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+187,1295,,,,,,,,,,,,,,,,,,,,,,Aasai Pillei Eeththam,,,,,,,
+188,1301,,,,,,,,,,,,,,,,,,,,,,Miriswill,,,,,,,
+189,1309,,,,,,,,,,,,,,,,,,,,,,Kodikamam Town,,,,,,,
+190,1314,,,,,,,,,,,,,,,,,,,,,,Kodikamam Murugan Kovil,,,,,,,
+191,1322,,,,,,,,,,,,,,,,,,,,,,Puththur,,,,,,,
+192,1328,,,,,,,,,,,,,,,,,,,,,,Arasadi Junction,,,,,,,
+193,1335,,,,,,,,,,,,,,,,,,,,,,Chavakachcheri,,,,,,,
+194,1341,,,,,,,,,,,,,,,,,,,,,,Chavakachcheri Aiiyar Rd,,,,,,,
+195,1349,,,,,,,,,,,,,,,,,,,,,,Chavakachcheri Police Station,,,,,,,
+196,1355,,,,,,,,,,,,,,,,,,,,,,Kaithady Bridge,,,,,,,
+197,1362,,,,,,,,,,,,,,,,,,,,,,Kaithady,,,,,,,
+198,1368,,,,,,,,,,,,,,,,,,,,,,Navathkuli,,,,,,,
+199,1376,,,,,,,,,,,,,,,,,,,,,,Semmani,,,,,,,
+200,1381,,,,,,,,,,,,,,,,,,,,,,Ariyalai Junction,,,,,,,
+201,1389,,,,,,,,,,,,,,,,,,,,,,Ariyalai,,,,,,,
+202,1395,,,,,,,,,,,,,,,,,,,,,,Jaffna Kachcheri,,,,,,,
+203,1402,,,,,,,,,,,,,,,,,,,,,,Jaffna ,,,,,,,
+204,1408,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+205,1416,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+206,1421,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+207,1427,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+208,1435,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+209,1441,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+210,1448,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+211,1454,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+212,1462,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+213,1467,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+214,1475,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+215,1481,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+216,1488,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+217,1494,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+218,1502,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+219,1508,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+220,1515,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
